@@ -1,0 +1,332 @@
+/*!
+ * Start Bootstrap - Modern Business (http://startbootstrap.com/)
+ * Copyright 2013-2016 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
+ */
+
+/* Global Styles */
+
+* {
+    border-radius: 0 !important;
+}
+
+html,
+body {
+    height: 100%;
+    background: #FBFBF9;
+}
+
+body {
+    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+    font-family: 'Roboto', sans-serif;
+}
+
+h4 {
+    color: #928B81;
+}
+
+a {
+    color: #8C1515;
+}
+
+a:hover {
+    color: #8C1515;
+}
+
+.panel-heading {
+    font-color: #000000;
+    color: #000000;
+}
+
+.container-colored {
+    background-color: #f2f1eb;
+}
+
+.press-mention {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.press-logo {
+    opacity: 0.4;
+    filter: alpha(opacity=40); /* For IE8 and earlier */
+    max-height: 40px;
+    max-width: 100%;
+}
+
+.press-logo:hover {
+    opacity: 1;
+    filter: alpha(opacity=100); /* For IE8 and earlier */
+}
+
+.pub-title {
+    font-size: 22px;
+    font-weight: 600;
+}
+.pub-authors {
+    font-size: 16px;
+    font-weight: 400;
+}
+.pub-info {
+    font-size: 14px;
+    font-weight: 400;
+}
+
+.br .br-top-10 {
+    display: block;
+    margin: 10px 0;
+}
+
+.press-box {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
+.press-box a:hover {
+    vertical-align: top;
+    display: inline-block;
+    *display: inline;
+    zoom: 1;
+    text-decoration: none;
+}
+
+.stretch {
+    width: 100%;
+    display: inline-block;
+    font-size: 0;
+    line-height: 0
+}
+
+.img-portfolio {
+    margin-bottom: 30px;
+}
+
+.img-hover:hover {
+    opacity: 0.8;
+}
+
+.navbar {
+    background-color: #f2f1eb;
+    margin-bottom: 0;
+    height: 55px;
+}
+
+.navbar-default .navbar-brand {
+    color: #2e2d29;
+    font-weight: 200;
+    font-size: 22px;
+    line-height: 25px;
+}
+
+.navbar-default .navbar-text {
+    color: #2e2d29;
+    font-weight: 200;
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #2e2d29;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+    color: #8C1515;
+    background-color: transparent;
+}
+
+.navbar-default .navbar-brand:hover,
+.navbar-default .navbar-brand:focus {
+    color: #8C1515;
+    background-color: transparent;
+}
+
+.nav-tabs > li.active > a,
+.nav-tabs > li.active > a:hover,
+.nav-tabs > li.active > a:focus {
+    color: #000;
+}
+
+/* Home Page Carousel */
+
+header.carousel {
+    height: 40%;
+}
+
+header.carousel .item,
+header.carousel .item.active,
+header.carousel .carousel-inner {
+    height: 100%;
+}
+
+header.carousel .fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+
+@media only screen and (max-width: 767px) {
+    .brand-logo {
+        width: 45px;
+        height: 45px;
+        margin-right: 0;
+        border-right: none;
+    }
+}
+
+.author {
+    display: inline-block;
+    text-align: center;
+    margin-right: 5px;
+    font-weight: bold;
+    width: 150px;
+}
+
+.author img {
+    width: 125px;
+}
+
+.section-header-first {
+    padding-bottom: 9px;
+    margin: 0 0 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.section-header {
+    padding-bottom: 9px;
+    margin: 20px 0 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.section-header-dark {
+    padding-bottom: 9px;
+    margin: 20px 0 20px;
+    border-bottom: 1px solid #dfdfdf;
+}
+
+.page-header-people {
+    padding-bottom: -5px;
+    margin: 20px 0 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.page-header-dark {
+  padding-bottom: 9px;
+  margin: 20px 0 20px;
+  border-bottom: 1px solid #ccc;
+}
+
+.brand-sitename-title {
+    font-size: 24px;
+    line-height: 45px;
+    margin-bottom: -20px;
+}
+
+.people-section-title {
+    font-size: 30px;
+    line-height: 45px;
+    margin-bottom: -20px;
+}
+
+/* 404 Page Styles */
+
+.error-404 {
+    font-size: 100px;
+}
+
+/* Pricing Page Styles */
+
+.price {
+    display: block;
+    font-size: 50px;
+    line-height: 50px;
+}
+
+.price sup {
+    top: -20px;
+    left: 2px;
+    font-size: 20px;
+}
+
+.period {
+    display: block;
+    font-style: italic;
+}
+
+/* Footer Styles */
+
+footer {
+    margin: 50px 0;
+}
+
+/* Responsive Styles */
+
+@media (max-width: 991px) {
+    .customer-img,
+    .img-related {
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 767px) {
+    .img-portfolio {
+        margin-bottom: 15px;
+    }
+
+    header.carousel .carousel {
+        height: 70%;
+    }
+}
+
+.mar-top-5 {
+    margin-top: 5px;
+}
+
+.mar-top-10 {
+    margin-top: 10px;
+}
+
+.mar-top-15 {
+    margin-top: 15px;
+}
+
+.mar-top-20 {
+    margin-top: 20px;
+}
+
+.mar-top-25 {
+    margin-top: 25px;
+}
+
+.mar-top-30 {
+    margin-top: 30px;
+}
+
+.mar-bot-5 {
+    margin-bottom: 5px;
+}
+
+.mar-bot-10 {
+    margin-bottom: 10px;
+}
+
+.mar-bot-15 {
+    margin-bottom: 15px;
+}
+
+.mar-bot-20 {
+    margin-bottom: 20px;
+}
+
+.mar-bot-25 {
+    margin-bottom: 25px;
+}
+
+.mar-bot-30 {
+    margin-bottom: 30px;
+}
