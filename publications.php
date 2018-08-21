@@ -9,7 +9,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Publications | Stanford Partnership in AI-Assisted Care (PAC)</title>
+  <title>Publications | People, AI, Robots (PAIR)</title>
 
   <!-- Bootstrap Core CSS -->
   <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -64,7 +64,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.php">Stanford Partnership in AI-Assisted Care</a>
+      <a class="navbar-brand" href="index.php">Stanford PAIR</a>
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -101,7 +101,7 @@
         <small></small>
       </h1>
       <ol class="breadcrumb">
-        <li><a href="index.php">Stanford PAC</a></li>
+        <li><a href="index.php">Stanford PAIR</a></li>
         <li class="active">Publications</li>
       </ol>
     </div>
@@ -115,17 +115,42 @@
 
   <div class="row mar-bot-30">
     <div class="col-md-3">
-    <img class="img-responsive" src="../../img/pub_thumbs/hsieh2018mlhc.png">
+    <img class="img-responsive" src="../../img/pub_thumbs/huang2018ntg.jpg">
     </div>
     <div class="col-md-9">
-      <p class="pub-title"> Computer Vision-based Descriptive Analytics of Seniors’ Daily Activities for Long-term Health Monitoring</p>
-      <p class="pub-authors">Zelun Luo*, Jun-Ting Hsieh*, Niranjan Balachandar, Serena Yeung, Guido Pusiol, Jay Luxenberg, Grace Li, Li-Jia Li, N. Lance Downing, Arnold Milstein, Li Fei-Fei</p>
-      <p class="pub-info">Machine Learning for Healthcare (MLHC) Conference<br/>
+      <p class="pub-title"> Neural Task Graphs: Generalizing to Unseen Tasks from a Single Video Demonstration</p>
+      <p class="pub-authors">De-an Huang, Suraj Nair, Danfei Xu, Yuke Zhu, Animesh Garg, Li Fei-Fei, Silvio Savarese, Juan Carlos Niebles</p>
+      <p class="pub-info">Pre-print<br/>
         August 2018
       </p>
       <p class="pub-description">
-      <a class="btn btn-default btn-xs" href="https://www.mlforhc.org/" target="_blank" role="button">
-          <i class="fa fa-users" aria-hidden="true"></i> Conference
+        <a class="btn btn-default btn-xs" href="https://arxiv.org/abs/1807.03480" target="_blank" role="button">
+          <i class="fa fa-book" aria-hidden="true"></i> Paper
+        </a>
+      </p>
+    </div>
+  </div>
+
+
+  <div class="row mar-bot-30">
+    <div class="col-md-3">
+    <img class="img-responsive" src="../../img/pub_thumbs/fang2018tog.png">
+    </div>
+    <div class="col-md-9">
+      <p class="pub-title">Learning Task-Oriented Grasping for Tool Manipulation with Simulated Self-Supervision</p>
+      <p class="pub-authors">Kuan Fang, Yuke Zhu, Animesh Garg, Viraj Mehta, Andrey Kurenkov, Li Fei-Fei, Silvio Savarese</p>
+      <p class="pub-info">Robotics Systems and Science (RSS) <br/>
+        June 2018
+      </p>
+      <p class="pub-description">
+        <a class="btn btn-default btn-xs" href="https://arxiv.org/abs/1806.09266" target="_blank" role="button">
+          <i class="fa fa-book" aria-hidden="true"></i> Paper
+        </a>
+        <a class="btn btn-default btn-xs" href="https://sites.google.com/view/task-oriented-grasp" target="_blank" role="button">
+          <i class="fa fa-users" aria-hidden="true"></i> Project Webpage
+        </a>
+        <a class="btn btn-default btn-xs" href="https://youtu.be/v0ErAR8Dwy8?t=43s" target="_blank" role="button">
+          <i class="fa fa-video-camera" aria-hidden="true"></i> Talk Video
         </a>
       </p>
     </div>
@@ -133,35 +158,41 @@
 
   <div class="row mar-bot-30">
     <div class="col-md-3">
-    <img class="img-responsive" src="../../img/pub_thumbs/liu2018mlhc.png">
+    <img class="img-responsive" src="../../img/pub_thumbs/huang2918findingit.jpg">
     </div>
     <div class="col-md-9">
-      <p class="pub-title"> 3D Point Cloud-Based Visual Prediction of ICU Mobility Care Activities</p>
-      <p class="pub-authors">Bingbin Liu*, Michelle Guo*, Edward Chou, Rishab Mehra, Serena Yeung, N. Lance Downing, Francesca Salipur, Jeffrey Jopling, Brandi Campbell, Kayla Deru, William Beninati, Arnold Milstein, Li Fei-Fei</p>
-      <p class="pub-info">Machine Learning for Healthcare (MLHC) Conference<br/>
-        August 2018
+      <p class="pub-title">Finding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Video</p>
+      <p class="pub-authors">De-An Huang, Shyamal Buch, Lucio Dery, Animesh Garg, Li Fei-Fei, Juan Carlos Niebles</p>
+      <p class="pub-info">IEEE Conf. on Computer Vision \& Pattern Recognition (CVPR)<br/>
+        June 2018
       </p>
       <p class="pub-description">
-      <a class="btn btn-default btn-xs" href="https://www.mlforhc.org/" target="_blank" role="button">
-          <i class="fa fa-users" aria-hidden="true"></i> Conference
+        <a class="btn btn-default btn-xs" href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Huang_Finding_It_Weakly-Supervised_CVPR_2018_paper.pdf" target="_blank" role="button">
+          <i class="fa fa-book" aria-hidden="true"></i> Paper
+        </a>
+        <a class="btn btn-default btn-xs" href="https://youtu.be/GBo4sFNzhtU?t=23m30s" target="_blank" role="button">
+          <i class="fa fa-video-camera" aria-hidden="true"></i> Video
         </a>
       </p>
     </div>
   </div>
-
+  
   <div class="row mar-bot-30">
     <div class="col-md-3">
-    <img class="img-responsive" src="../../img/pub_thumbs/yeung2018bedside.jpg">
+    <img class="img-responsive" src="../../img/pub_thumbs/xu-ntp-icra18.jpg">
     </div>
     <div class="col-md-9">
-      <p class="pub-title">Bedside Computer Vision — Moving Artificial Intelligence from Driver Assistance to Patient Safety</p>
-      <p class="pub-authors">Serena Yeung, Lance Downing, Li Fei-Fei, Arnold Milstein</p>
-      <p class="pub-info">New England Journal of Medicine<br/>
-        April 2018
+      <p class="pub-title">Neural Task Programming: Learning to Generalize Across Hierarchical Tasks</p>
+      <p class="pub-authors">Danfei Xu*, Suraj Nair*, Yuke Zhu, Julian Gao, Animesh Garg, Li Fei-Fei, Silvio Savarese</p>
+      <p class="pub-info">IEEE Int’l Conf. on Robotics and Automation (ICRA)<br/>
+        May 2018
       </p>
       <p class="pub-description">
-        <a class="btn btn-default btn-xs" href="http://www.nejm.org/doi/full/10.1056/NEJMp1716891" target="_blank" role="button">
-          <i class="fa fa-users" aria-hidden="true"></i> Paper
+        <a class="btn btn-default btn-xs" href="https://arxiv.org/abs/1710.01813" target="_blank" role="button">
+          <i class="fa fa-book" aria-hidden="true"></i> Paper
+        </a>
+        <a class="btn btn-default btn-xs" href="https://www.youtube.com/watch?v=THq7I7C5rkk&feature=youtu.be" target="_blank" role="button">
+          <i class="fa fa-video-camera" aria-hidden="true"></i> Video
         </a>
       </p>
     </div>
@@ -175,416 +206,45 @@
 
   <div class="row mar-bot-30">
     <div class="col-md-3">
-    <img class="img-responsive" src="../../img/pub_thumbs/nips17_ml4h_tools.jpg">
+    <img class="img-responsive" src="../../img/pub_thumbs/harrison-isrr17-adapt.png">
     </div>
     <div class="col-md-9">
-      <p class="pub-title">Tool Detection and Operative Skill Assessment in Surgical Videos Using Region-Based Convolutional Neural Networks</p>
-      <p class="pub-authors">Amy Jin, Serena Yeung, Jeffrey Jopling, Jonathan Krause, Dan Azagury, Arnold Milstein, Li Fei-Fei</p>
-      <p class="pub-info">Machine Learning for Health Workshop, Neural Information Processing Systems (NIPS)<br/>
-        December 2017
+      <p class="pub-title">AdaPT: Zero-Shot Adaptive Policy Transfer for Stochastic Dynamical Systems</p>
+      <p class="pub-authors">James Harrison*, Animesh Garg*, Boris Ivanovic, Yuke Zhu, Silvio Savarese, Li Fei-Fei, Marco Pavone</p>
+      <p class="pub-info">Int’l Symposium on Robotics Research (ISRR)<br/>
+        Dec 2017
       </p>
       <p class="pub-description">
-        <a class="btn btn-default btn-xs" href="https://ml4health.github.io/2017/pages/posters.html" target="_blank" role="button">
-          <i class="fa fa-users" aria-hidden="true"></i> Workshop
+        <a class="btn btn-default btn-xs" href="https://arxiv.org/abs/1707.04674" target="_blank" role="button">
+          <i class="fa fa-book" aria-hidden="true"></i> Paper
         </a>
       </p>
     </div>
   </div>
-
+  
   <div class="row mar-bot-30">
     <div class="col-md-3">
-      <img class="img-responsive" src="../../img/pub_thumbs/nips17_ml4h_5m.jpg">
+    <img class="img-responsive" src="../../img/pub_thumbs/mandlekar-arpl-iros17.png">
     </div>
     <div class="col-md-9">
-      <p class="pub-title">Viewpoint Invariant Convolutional Networks for Identifying Risky Hand Hygiene Scenarios</p>
-      <p class="pub-authors">Michelle Guo, Albert Haque, Serena Yeung, Jeffrey Jopling, Lance Downing, Alexandre Alahi, Brandi Campbell, Kayla Deru, William Beninati, Arnold Milstein, Li Fei-Fei</p>
-      <p class="pub-info">Machine Learning for Health Workshop, Neural Information Processing Systems (NIPS)<br/>
-        December 2017
+      <p class="pub-title">Adversarially Robust Policy Learning through Active Construction of Physically-Plausible Perturbations</p>
+      <p class="pub-authors">Ajay Mandlekar*, Yuke Zhu*, Animesh Garg*, Li Fei-Fei, Silvio Savarese</p>
+      <p class="pub-info">Int’l Conf. on Intelligent Robots and Systems (IROS)<br/>
+        October 2017
       </p>
       <p class="pub-description">
-        <a class="btn btn-default btn-xs" href="https://ml4health.github.io/2017/pages/posters.html" target="_blank" role="button">
-          <i class="fa fa-users" aria-hidden="true"></i> Workshop
+        <a class="btn btn-default btn-xs" href="http://vision.stanford.edu/pdf/mandlekar2017iros.pdf" target="_blank" role="button">
+          <i class="fa fa-book" aria-hidden="true"></i> Paper
+        </a>
+        <a class="btn btn-default btn-xs" href="https://stanfordvl.github.io/ARPL/" target="_blank" role="button">
+          <i class="fa fa-file-code" aria-hidden="true"></i> Code
+        </a>
+        <a class="btn btn-default btn-xs" href="https://www.youtube.com/watch?v=yZ-gSsbbzh0" target="_blank" role="button">
+          <i class="fa fa-video-camera" aria-hidden="true"></i> Video
         </a>
       </p>
     </div>
   </div>
-
-  <div class="row mar-bot-30">
-    <div class="col-md-3">
-    <img class="img-responsive" src="../../img/pub_thumbs/nips17_ml4h_icu.jpg">
-    </div>
-    <div class="col-md-9">
-      <p class="pub-title">Vision-Based Prediction of ICU Mobility Care Activities using Recurrent Neural Networks</p>
-      <p class="pub-authors">Gabriel M. Bianconi, Rishab Mehra, Serena Yeung, Francesca Salipur, Jeffrey Jopling, Lance Downing, Albert Haque, Alexandre Alahi, Brandi Campbell, Kayla Deru, William Beninati, Arnold Milstein, Li Fei-Fei</p>
-      <p class="pub-info">Machine Learning for Health Workshop, Neural Information Processing Systems (NIPS)<br/>
-        December 2017
-      </p>
-      <p class="pub-description">
-        <a class="btn btn-default btn-xs" href="https://ml4health.github.io/2017/pages/posters.html" target="_blank" role="button">
-          <i class="fa fa-users" aria-hidden="true"></i> Workshop
-        </a>
-      </p>
-    </div>
-  </div>
-
-  <div class="row mar-bot-30">
-    <div class="col-md-3">
-      <img class="img-responsive" src="../../img/pub_thumbs/haque2017mlhc.png">
-    </div>
-    <div class="col-md-9">
-      <p class="pub-title">Towards Vision-Based Smart Hospitals: A System for Tracking and Monitoring Hand Hygiene Compliance</p>
-      <p class="pub-authors">Albert Haque, Michelle Guo, Alexandre Alahi, Serena Yeung, Zelun Luo, Alisha Rege, Amit Singh, Jeffrey Jopling, Lance Downing, William Beninati, Terry Platchek, Arnold Milstein, Li Fei-Fei</p>
-      <p class="pub-info">Machine Learning in Healthcare Conference (MLHC), Proceedings of Machine Learning Research<br/>
-        August 2017
-      </p>
-      <p class="pub-description">
-        <a class="btn btn-danger btn-xs" href="https://arxiv.org/pdf/1708.00163.pdf" target="_blank" role="button">
-          <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
-        </a>
-        <a class="btn btn-default btn-xs" href="https://arxiv.org/abs/1708.00163" target="_blank" role="button">
-          <i class="fa fa-mouse-pointer" aria-hidden="true"></i> arXiv
-        </a>
-        <a class="btn btn-default btn-xs" href="http://mucmd.org" target="_blank" role="button">
-          <i class="fa fa-users" aria-hidden="true"></i> Conference
-        </a>
-      </p>
-    </div>
-  </div>
-
-
-  <div class="row">
-    <div class="col-lg-12">
-      <h2 class="section-header-first">2016 <small>Publications</small></h2>
-    </div>
-  </div>
-
-  <div class="row mar-bot-30">
-    <div class="col-md-3">
-      <img class="img-responsive" src="img/pub_thumbs/yeung2016amia.png">
-    </div>
-    <div class="col-md-9">
-      <p class="pub-title">Vision-Based Hand Hygiene Monitoring in Hospitals </p>
-      <p class="pub-authors">Serena Yeung, Alexandre Alahi, Zelun Luo, Boya Peng, Albert Haque,<br>Amit Singh, Terry Platchek, Arnold Milstein, Li Fei-Fei</p>
-      <p class="pub-info">American Medical Informatics Association (AMIA) Annual Symposium<br/>
-        November 2016
-      </p>
-      <p class="pub-description">
-        <a class="btn btn-default btn-xs" href="https://www.amia.org/amia2016" target="_blank" role="button">
-          <i class="fa fa-users" aria-hidden="true"></i> Conference
-        </a>
-      </p>
-    </div>
-  </div>
-
-  <hr>
-
-  <div class="row mar-bot-30">
-    <div class="col-md-3">
-      <img class="img-responsive" src="img/pub_thumbs/haque2016viewpoint.png">
-    </div>
-    <div class="col-md-9">
-      <p class="pub-title">Towards Viewpoint Invariant 3D Human Pose Estimation</p>
-      <p class="pub-authors">Albert Haque, Boya Peng, Zelun Luo, Alexandre Alahi, Serena Yeung, Li Fei-Fei</p>
-      <p class="pub-info">European Conference on Computer Vision (ECCV)<br/>
-        October 2016
-      </p>
-      <p class="pub-description">
-        <a class="btn btn-danger btn-xs" href="http://vision.stanford.edu/pdf/haque2016eccv.pdf" target="_blank" role="button">
-          <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
-        </a>
-        <a class="btn btn-default btn-xs" href="https://www.albert.cm/projects/viewpoint_3d_pose/" target="_blank" role="button">
-          <i class="fa fa-mouse-pointer" aria-hidden="true"></i> Website
-        </a>
-        <a class="btn btn-default btn-xs" href="http://arxiv.org/abs/1603.07076" target="_blank" role="button">
-          <i class="fa fa-mouse-pointer" aria-hidden="true"></i> arXiv
-        </a>
-        <a class="btn btn-default btn-xs" href="http://www.eccv2016.org/" target="_blank" role="button">
-          <i class="fa fa-users" aria-hidden="true"></i> Conference
-        </a>
-      </p>
-    </div>
-  </div>
-
-  <hr>
-
-  <div class="row mar-bot-30">
-    <div class="col-md-3">
-      <img class="img-responsive" src="img/pub_thumbs/pusiol2016miccai.png">
-    </div>
-    <div class="col-md-9">
-      <p class="pub-title">Classification of Developmental Disorders Using Eye-Movements</p>
-      <p class="pub-authors">Guido Pusiol, Andre Esteva, Scott S. Hall, Michael Frank, Arnold Milstein, Li Fei-Fei</p>
-      <p class="pub-info">
-        International Conference on Medical Image Computing and
-        Computer-Assisted Intervention (MICCAI)<br/>
-        October 2016
-      </p>
-      <p class="pub-description">
-        <a class="btn btn-danger btn-xs" href="http://vision.stanford.edu/pdf/pusiol2016miccai.pdf" target="_blank" role="button">
-          <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
-        </a>
-        <a class="btn btn-default btn-xs" href="http://www.miccai2016.org/en/" target="_blank" role="button">
-          <i class="fa fa-users" aria-hidden="true"></i> Conference
-        </a>
-      </p>
-    </div>
-  </div>
-
-  <hr>
-
-  <div class="row mar-bot-30">
-    <div class="col-md-3">
-      <img class="img-responsive" src="img/pub_thumbs/haque2016recurrent.png">
-    </div>
-    <div class="col-md-9">
-      <p class="pub-title">Recurrent Attention Models for Person Identification</p>
-      <p class="pub-authors">Albert Haque, Alexandre Alahi, Li Fei-Fei</p>
-      <p class="pub-info">
-        Conference on Computer Vision and Pattern Recognition (CVPR)<br/>
-        June 2016
-      </p>
-      <p class="pub-description">
-        <a class="btn btn-danger btn-xs" href="http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Haque_Recurrent_Attention_Models_CVPR_2016_paper.pdf" target="_blank" role="button">
-          <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
-        </a>
-        <a class="btn btn-default btn-xs" href="https://www.albert.cm/projects/ram_person_id/" target="_blank" role="button">
-          <i class="fa fa-mouse-pointer" aria-hidden="true"></i> Website
-        </a>
-        <a class="btn btn-default btn-xs" href="http://cvpr2016.thecvf.com/" target="_blank" role="button">
-          <i class="fa fa-users" aria-hidden="true"></i> Conference
-        </a>
-      </p>
-    </div>
-  </div>
-
-  <hr>
-
-  <div class="row mar-bot-30">
-    <div class="col-md-3">
-      <img class="img-responsive" src="./img/project_thumbs/750x400/miner2016jama.png">
-    </div>
-    <div class="col-md-9">
-      <p class="pub-title">
-        Smartphone-Based Conversational Agents and Responses to Questions About Mental Health, Interpersonal
-        Violence, and Physical Health
-      </p>
-      <p class="pub-description">
-        Adam Miner, Arnold Milstein, Stephen Schueller, Roshini Hegde,
-        Christina Mangurian, Eleni Linos<br/>
-        The Journal of the American Medical Association, JAMA Internal Medicine<br/>
-        May 2016
-      </p>
-      <p class="pub-description">
-        <a class="btn btn-default btn-xs" href="http://archinte.jamanetwork.com/article.aspx?articleid=2500043" role="button">
-          <i class="fa fa-book" aria-hidden="true"></i> Publisher
-        </a>
-        <a class="btn btn-default btn-xs" href="#" role="button">
-          <i class="fa fa-mouse-pointer" aria-hidden="true"></i> Website
-        </a>
-      </p>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-lg-12">
-      <h2 class="section-header">2015 <small>Publications</small></h2>
-    </div>
-  </div>
-
-  <div class="row mar-bot-30">
-    <div class="col-md-3">
-      <img class="img-responsive" src="./img/project_thumbs/750x400/yeung2015nips.png">
-    </div>
-    <div class="col-md-9">
-      <p class="pub-title">
-        Vision-Based Hand Hygiene Monitoring in Hospitals
-      </p>
-      <p class="pub-description">
-        Serena Yeung, Alexandre Alahi, Zelun Luo, Boya Peng, Albert Haque, Amit Singh, Terry Platchek, Arnold
-        Milstein, Li Fei-Fei<br/>
-        Workshop on Machine Learning in Healthcare, Neural Information Processing Systems (NIPS)<br/>
-        December 2015
-      </p>
-      <p class="pub-description">
-        <a class="btn btn-danger btn-xs" href="http://ai.stanford.edu/~syyeung/resources/vision_hand_hh_nipsmlhc.pdf" role="button">
-          <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
-        </a>
-        <a class="btn btn-default btn-xs" href="https://sites.google.com/site/nipsmlhc15/" target="_blank"
-           role="button">
-          <i class="fa fa-users" aria-hidden="true"></i> Conference
-        </a>
-      </p>
-    </div>
-  </div>
-
-
-  <hr>
-
-  <div class="row mar-bot-30">
-    <div class="col-md-3">
-      <img class="img-responsive" src="img/pub_thumbs/elloumi2014unsupervised.png">
-    </div>
-    <div class="col-md-9">
-      <p class="pub-title">​Unsupervised Discovery of Human Activities from Long-Videos</p>
-      <p class="pub-authors">Salma Elloumi, Serhan Cosar, Guido Pusiol, Francois Bremond, Monique Thonnat</p>
-      <p class="pub-info">
-        The Institution of Engineering and Technology, IET Computer Vision<br/>
-        July 2015
-      </p>
-      <p class="pub-description">
-        <a class="btn btn-danger btn-xs" href="http://www-sop.inria.fr/members/Francois.Bremond/Postscript/actdis_cv.pdf" target="_blank" role="button">
-          <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
-        </a>
-        <a class="btn btn-default btn-xs" href="http://ieeexplore.ieee.org/document/7172630/" target="_blank" role="button">
-          <i class="fa fa-book" aria-hidden="true"></i> Publisher
-        </a>
-      </p>
-    </div>
-  </div>
-
-  <hr>
-
-  <div class="row mar-bot-30">
-    <div class="col-md-3">
-      <img class="img-responsive" src="img/pub_thumbs/hall2015quantifying.png">
-    </div>
-    <div class="col-md-9">
-      <p class="pub-title">​Quantifying Naturalistic Social Gaze in Fragile X Syndrome Using a Novel Eye-Tracking Paradigm</a>
-      </p>
-      <p class="pub-authors">Scott S. Hall, Michael C. Frank, Guido Pusiol, Faraz Farzin, Amy A. Lightbody, Allan L. Reiss</p>
-      <p class="pub-info">
-        American Journal of Medical Genetics, Part 1: Neuropsychiatric Genetics<br/>
-        June 2015
-      </p>
-      <p class="pub-description">
-        <a class="btn btn-danger btn-xs" href="http://langcog.stanford.edu/papers/AJMG_B_Hall.pdf" target="_blank" role="button">
-          <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
-        </a>
-        <a class="btn btn-default btn-xs" href="http://dx.doi.org/10.1002/ajmg.b.32331" target="_blank" role="button">
-          <i class="fa fa-book" aria-hidden="true"></i> Publisher
-        </a>
-      </p>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-lg-12">
-      <h2 class="section-header-first">2014 <small>Publications</small></h2>
-    </div>
-  </div>
-
-  <div class="row mar-bot-30">
-    <div class="col-md-3">
-      <img class="img-responsive" src="img/pub_thumbs/pusiol2014discovering.png">
-    </div>
-    <div class="col-md-9">
-      <p class="pub-title">​Discovering the Signatures of Joint Attention in Child-Caregiver Interaction</p>
-      <p class="pub-authors">Guido Pusiol, Laura Soriano, Li Fei-Fei, Michael C. Frank</p>
-      <p class="pub-info">
-        The Annual Meeting of the Cognitive Science Society (CogSci)<br/>
-        July 2014
-      </p>
-      <p class="pub-description">
-        <a class="btn btn-danger btn-xs" href="http://vision.stanford.edu/pdf/guido14.pdf" target="_blank" role="button">
-          <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
-        </a>
-        <a class="btn btn-default btn-xs" href="http://cognitivesciencesociety.org/wp-content/uploads/archival/cognitivesciencesociety.org/conference2014/index.html" target="_blank" role="button">
-          <i class="fa fa-users" aria-hidden="true"></i> Conference
-        </a>
-      </p>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-lg-12">
-      <h2 class="section-header-first">2013 <small>Publications</small></h2>
-    </div>
-  </div>
-
-  <div class="row mar-bot-30">
-    <div class="col-md-3">
-      <img class="img-responsive" src="img/pub_thumbs/frank2013developmental.png">
-    </div>
-    <div class="col-md-9">
-      <p class="pub-title">​Developmental and Postural Changes in Children Visual Access to Faces</p>
-      <p class="pub-authors">Michael C. Frank, Kaia Simmons, Daniel Yurovsky, Guido Pusiol</p>
-      <p class="pub-info">
-        The Annual Meeting of the Cognitive Science Society (CogSci)<br/>
-        August 2013
-      </p>
-      <p class="pub-description">
-        <a class="btn btn-danger btn-xs" href="http://mindmodeling.org/cogsci2013/papers/0106/paper0106.pdf" target="_blank" role="button">
-          <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
-        </a>
-        <a class="btn btn-default btn-xs" href="http://cognitivesciencesociety.org/wp-content/uploads/archival/cognitivesciencesociety.org/conference2013/index.html" target="_blank"
-           role="button">
-          <i class="fa fa-users" aria-hidden="true"></i> Conference
-        </a>
-      </p>
-    </div>
-  </div>
-
-  <div class="row">
-    <div class="col-lg-12">
-      <h2 class="section-header-first">2012 <small>Publications</small></h2>
-    </div>
-  </div>
-
-  <div class="row mar-bot-30">
-    <div class="col-md-3">
-      <img class="img-responsive" src="img/pub_thumbs/pusiol2011unsupervised.png">
-    </div>
-    <div class="col-md-9">
-      <p class="pub-title">​Unsupervised Discovery, Modeling, and Analysis of Long Term Activities</p>
-      <p class="pub-authors">Guido Pusiol, Francois Bremond, Monique Thonnat</p>
-      <p class="pub-info">
-        International Conference on Computer Vision Systems (ICVS)<br/>
-        Septmber 2011
-      </p>
-      <p class="pub-description">
-        <a class="btn btn-danger btn-xs" href="https://hal.inria.fr/file/index/docid/621201/filename/ICVS_Paper.pdf" target="_blank" role="button">
-          <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
-        </a>
-        <a class="btn btn-default btn-xs" href="http://link.springer.com/chapter/10.1007%2F978-3-642-23968-7_11" target="_blank" role="button">
-          <i class="fa fa-book" aria-hidden="true"></i> Publisher
-        </a>
-        <a class="btn btn-default btn-xs" href="http://www-sop.inria.fr/manifestations/icvs2011/" target="_blank"
-           role="button">
-          <i class="fa fa-users" aria-hidden="true"></i> Conference
-        </a>
-      </p>
-    </div>
-  </div>
-
-  <hr>
-
-  <div class="row mar-bot-30">
-    <div class="col-md-3">
-      <img class="img-responsive" src="img/pub_thumbs/pusiol2010trajectory.png">
-    </div>
-    <div class="col-md-9">
-      <p class="pub-title">​Trajectory Based Activity Discovery</p>
-      <p class="pub-authors">Guido Pusiol, Francois Bremond, Monique Thonnat</p>
-      <p class="pub-info">
-        IEEE International Conference on Advanced Video and Signal-Based Surveillance (AVSS)<br/>
-        August 2010
-      </p>
-      <p class="pub-description">
-        <a class="btn btn-danger btn-xs" href="http://www-sop.inria.fr/members/Francois.Bremond/Postscript/avss2010Guido.pdf" target="_blank" role="button">
-          <i class="fa fa-file-pdf-o" aria-hidden="true"></i> PDF
-        </a>
-        <a class="btn btn-default btn-xs" href="http://ieeexplore.ieee.org/document/5597122/" target="_blank" role="button">
-          <i class="fa fa-book" aria-hidden="true"></i> Publisher
-        </a>
-        <a class="btn btn-default btn-xs" href="http://www.avss2010.org/" target="_blank"
-           role="button">
-          <i class="fa fa-users" aria-hidden="true"></i> Conference
-        </a>
-      </p>
-    </div>
-  </div>
-
-
   <hr>
 
   <!-- Footer -->
