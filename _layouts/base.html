@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  {% include head.html %}
+  
+  {% assign body_id = 'page' %}
+  {% if page.layout == 'post' %}
+    {% assign body_id = 'post' %}
+  {% endif %}
+
+  <body id={{ body_id }}>
+    {% include navigation.html %}
+    {% include header.html %}
+    
+    {{ content }}
+
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+
+</html>
+
+
