@@ -1,15 +1,9 @@
 <!DOCTYPE html>
 <html lang="en-US">
   {% include head.html %}
-  
-  {% assign body_id = 'page' %}
-  {% if page.layout == 'post' %}
-    {% assign body_id = 'post' %}
-  {% endif %}
 
-  <body id={{ body_id }}>
+  <body>
     {% include navigation.html %}
-    {% include header.html %}
     
     {{ content }}
 
