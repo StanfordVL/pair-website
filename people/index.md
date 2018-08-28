@@ -13,7 +13,7 @@ about: "PAIR people"
                 <small></small>
             </h1>
             <ol class="breadcrumb">
-                <li><a href="index.php">Stanford PAC</a></li>
+                <li><a href="index.php">Stanford PAIR Group</a></li>
                 <li class="active">People</li>
             </ol>
         </div>
@@ -35,7 +35,7 @@ about: "PAIR people"
                 <small>Ph.D.</small>
             </h3>
             <p class="person-title">
-                <b>Director, Partnership in AI-Assisted Care</b><br/>
+                <b>Director, Stanford People, AI, Robots Group</b><br/>
                 Director, Stanford Artificial Intelligence Lab<br/>
                 Associate Professor of Computer Science</p>
             <p class="person-bio">Dr. Fei-Fei Li is the Director of the Stanford AI Lab and is a principal investigator for the Stanford Vision and Learning Lab. Her group focuses on computer vision, artificial intelligence, and cognitive neuroscience.</p>
@@ -69,7 +69,7 @@ about: "PAIR people"
             </a>
             <h3><a href="https://www.linkedin.com/in/shellguo95/" target="_blank">Michelle Guo</a></h3>
             <p class="person-title">Graduate Student, Computer Science</p>
-            <p class="person-bio">Michelle is a member of PAC, where her research interests include biologically-inspired machine learning and multimodal data fusion.</p>
+            <p class="person-bio">Michelle is a member of PAIR, where her research interests include biologically-inspired machine learning and multimodal data fusion.</p>
         </div>
 
         <div class="col-md-4 img-portfolio">
@@ -78,7 +78,7 @@ about: "PAIR people"
             </a>
             <h3><a href="">Tim Hsieh</a></h3>
             <p class="person-title">Graduate Student, Computer Science</p>
-            <p class="person-bio">Tim is a member of PAC.
+            <p class="person-bio">Tim is a member of PAIR.
                 His research interests include 3D computer vision, video understanding and human action detection.</p>
         </div>
 
@@ -88,7 +88,7 @@ about: "PAIR people"
             </a>
             <h3><a href="https://www.linkedin.com/in/bingbinliu/" target="_blank">Bingbin Liu</a></h3>
             <p class="person-title">Graduate Student, Computer Science</p>
-            <p class="person-bio">Bingbin is a member of PAC, where her research interests lie in video understanding, action recognition, and compositional reasoning.</p>
+            <p class="person-bio">Bingbin is a member of PAIR, where her research interests lie in video understanding, action recognition, and compositional reasoning.</p>
         </div>
 
     </div>
@@ -100,7 +100,7 @@ about: "PAIR people"
                 </a>
                 <h3><a href="http://rishab.me/" target="_blank">Rishab Mehra</a></h3>
                 <p class="person-title">Graduate Student, Computer Science</p>
-                <p class="person-bio">Rishab is a member of PAC, where his research interests lie in the real world applications of computer vision and natural language processing.</p>
+                <p class="person-bio">Rishab is a member of PAIR, where his research interests lie in the real world applications of computer vision and natural language processing.</p>
             </div>
 
         <div class="col-md-4 img-portfolio">
@@ -109,7 +109,7 @@ about: "PAIR people"
             </a>
             <h3><a href="https://www.linkedin.com/in/edwardjchou/" target="_blank">Edward Chou</a></h3>
             <p class="person-title">Graduate Student, Computer Science</p>
-            <p class="person-bio">Edward is a member of PAC, where his research interests are related to activity recognition, video understanding, and differential privacy.</p>
+            <p class="person-bio">Edward is a member of PAIR, where his research interests are related to activity recognition, video understanding, and differential privacy.</p>
         </div>
 
         <div class="col-md-4 img-portfolio">
@@ -118,7 +118,7 @@ about: "PAIR people"
             </a>
             <h3><a href="https://www.linkedin.com/in/emanuel-cortes-7aaa2592/" target="_blank">Emanuel Cortes</a></h3>
             <p class="person-title">Undergraduate Student, Computer Science</p>
-            <p class="person-bio">Manny is a member of PAC, where his research interests are related to activity recognition, deep learning, and differential privacy.</p>
+            <p class="person-bio">Manny is a member of PAIR, where his research interests are related to activity recognition, deep learning, and differential privacy.</p>
         </div>
 
     </div>
@@ -130,7 +130,7 @@ about: "PAIR people"
             </a>
             <h3><a href="https://www.linkedin.com/in/niranjan-balachandar-a5813ba4/" target="_blank">Niranjan Balachandar</a></h3>
             <p class="person-title">Undergraduate Student, Computer Science</p>
-            <p class="person-bio">Niranjan is a member of PAC, where his research interests are related to computer vision, deep learning, and activity recognition.</p>
+            <p class="person-bio">Niranjan is a member of PAIR, where his research interests are related to computer vision, deep learning, and activity recognition.</p>
         </div>
 
         <div class="col-md-4 img-portfolio">
@@ -139,7 +139,7 @@ about: "PAIR people"
             </a>
             <h3><a href="https://www.linkedin.com/in/jiayu-lily-li/" target="_blank">Lily Li</a></h3>
             <p class="person-title">Senior, Homestead High School</p>
-            <p class="person-bio">Lily is a member of PAC, her interests are deep learning, robotics, and computer vision with applications to neuroprosthetics.</p>
+            <p class="person-bio">Lily is a member of PAIR, her interests are deep learning, robotics, and computer vision with applications to neuroprosthetics.</p>
         </div>
     </div>
 </div>
@@ -164,7 +164,7 @@ about: "PAIR people"
                 <small>M.D., M.P.H.</small>
             </h3>
             <p class="person-title">
-                <b>Director, Partnership in AI-Assisted Care</b><br/>
+                <b>Director, Stanford People, AI, Robots Group</b><br/>
                 Director, Clinical Excellence Research Center<br/>
                 Professor of Medicine</p>
             <p class="person-bio">Dr. Milstein is Professor of Medicine and the Director of the Clinical
@@ -192,7 +192,7 @@ about: "PAIR people"
                     <small>M.B.A.</small>
                 </h3>
                 <p class="person-title">Program Manager, Clinical Excellence Research Center</p>
-                <p class="person-bio">Julia is focused on providing the process design and project management to help bring innovations from the Partnership in AI-Assisted Care to life. Julia has previously led technology development and research initiatives at Kaiser, UCSF, and Deloitte. 
+                <p class="person-bio">Julia is focused on providing the process design and project management to help bring innovations from the Stanford People, AI, Robots Group to life. Julia has previously led technology development and research initiatives at Kaiser, UCSF, and Deloitte. 
                 </p>
         </div>
     </div>

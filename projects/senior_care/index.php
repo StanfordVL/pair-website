@@ -8,7 +8,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="">
   <meta name="author" content="">
-  <title>Senior Care | Stanford Partnership in AI-Assisted Care (PAC)</title>
+  <title>Senior Care | Stanford People, AI, Robots Group (PAIR)</title>
 
   <link href="../../favicon.ico" rel="icon" type="image/x-icon">
   <link href="../../css/bootstrap.min.css" rel="stylesheet">
@@ -65,7 +65,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="../../index.php">Stanford Partnership in AI-Assisted Care</a>
+      <a class="navbar-brand" href="../../index.php">Stanford People, AI, Robots Group</a>
     </div>
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -96,7 +96,7 @@
     <div class="col-lg-12">
       <h1 class="page-header">Intelligent Senior Well-Being</h1>
       <ol class="breadcrumb">
-        <li><a href="../../index.php">Stanford PAC</a></li>
+        <li><a href="../../index.php">Stanford PAIR Group</a></li>
         <li><a href="../index.php">Projects</a></li>
         <li class="active">Intelligent Senior Well-Being</li>
       </ol>

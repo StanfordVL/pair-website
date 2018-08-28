@@ -64,7 +64,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="https://aicare.stanford.edu/index.php">Stanford Partnership in AI-Assisted Care</a>
+            <a class="navbar-brand" href="https://aicare.stanford.edu/index.php">Stanford People, AI, Robots Group</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -101,7 +101,7 @@
                 <small></small>
             </h1>
             <ol class="breadcrumb">
-                <li><a href="index.php">Stanford PAC</a></li>
+                <li><a href="index.php">Stanford PAIR Group</a></li>
                 <li class="active">404 Page Not Found</li>
             </ol>
         </div>
