@@ -12,7 +12,7 @@ about: "PAIR website"
       <div class="col-md-6 img-portfolio">
         <h2 class="page-header-dark">About</h2>
         <p>
-            The Partnership in AI-Assisted Care (PAC) is an interdisciplinary collaboration between
+            The Stanford People, AI, Robots Group (PAIR) is an interdisciplinary collaboration between
             the School of Medicine and the Computer Science department focusing on cutting edge
             computer vision and machine learning technologies to solve some of healthcare's most
             important problems.
