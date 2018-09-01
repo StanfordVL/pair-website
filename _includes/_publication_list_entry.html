@@ -3,10 +3,11 @@
   <img class="img-responsive" src="/publications/images/{{ publication.images.thumb }}">
   </div>
   <div class="col-md-9">
-    <p class="pub-title"><a href="{{ site.url }}{{ publication.url }}" title="{{ publication.title }}">{{ publication.title }}</a></p>
+    <!-- <p class="pub-title"><a href="{{ site.url }}{{ publication.url }}" title="{{ publication.title }}">{{ publication.title }}</a></p> -->
+    <p class="pub-title">{{ publication.title }}</p>
     <p class="pub-authors">{{ publication.authors }}</p>
-    <p class="pub-info">{{ publication.pub_info_name }}<br/>
-      {{ publication.pub_info_date }}
+    <p class="pub-info">
+      <strong>{{ publication.pub_info_name }}</strong>. {{ publication.pub_info_date }}
     </p>
     <p class="pub-description">
       {% if publication.paper_link %}
@@ -14,26 +15,24 @@
         <i class="fa fa-book" aria-hidden="true"></i> Paper
       </a>
       {% endif %}
-      
+
       {% if publication.webpage_link %}
       <a class="btn btn-default btn-xs" href="{{ publication.webpage_link }}" target="_blank" role="button">
-        <i class="fa fa-users" aria-hidden="true"></i> Project Webpage
+        <i class="fa fa-users" aria-hidden="true"></i> Project
       </a>
       {% endif %}
-      
+
       {% if publication.video_link %}
       <a class="btn btn-default btn-xs" href="{{ publication.video_link }}" target="_blank" role="button">
-        <i class="fa fa-video-camera" aria-hidden="true"></i> Talk Video
+        <i class="fa fa-video-camera" aria-hidden="true"></i> Video
       </a>
       {% endif %}
-      
-      
-      {% if publication.cpde_link %}
+
+      {% if publication.code_link %}
       <a class="btn btn-default btn-xs" href="{{ publication.code_link }}" target="_blank" role="button">
-        <i class="fa fa-file-code" aria-hidden="true"></i> Code
+        <i class="fa fa-code" aria-hidden="true"></i> Code
       </a>
       {% endif %}
-      
     </p>
   </div>
 </div>

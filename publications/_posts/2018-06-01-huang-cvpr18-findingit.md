@@ -2,7 +2,7 @@
 layout: publication
 title: "Finding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Video"
 authors: "De-An Huang, Shyamal Buch, Lucio Dery, Animesh Garg, Li Fei-Fei, Juan Carlos Niebles"
-pub_info_name: "IEEE Conf. on Computer Vision & Pattern Recognition (CVPR)"
+pub_info_name: "IEEE Conference on Computer Vision & Pattern Recognition (CVPR)"
 pub_info_date: June 2018
 excerpt: text text text
 images:

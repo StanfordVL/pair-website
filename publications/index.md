@@ -1,7 +1,7 @@
 ---
 layout: base
 title: Publications
-about: "PAIR publications"
+about: "PAIR Publications"
 ---
 <!-- Page Content -->
 <div class="container">
@@ -13,7 +13,7 @@ about: "PAIR publications"
         <small></small>
       </h1>
       <ol class="breadcrumb">
-        <li><a href="index.php">Stanford PAIR</a></li>
+        <li><a href="/">Stanford PAIR</a></li>
         <li class="active">Publications</li>
       </ol>
     </div>
@@ -36,6 +36,7 @@ about: "PAIR publications"
   <!-- Footer -->
   <footer>
     <div class="row">
+      <strong>* indicates equal contribution.</strong>
       <div class="col-lg-12">
       </div>
     </div>

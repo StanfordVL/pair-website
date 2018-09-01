@@ -1,8 +1,8 @@
 ---
 layout: publication
 title: "Neural Task Graphs: Generalizing to Unseen Tasks from a Single Video Demonstration"
-authors: "De-an Huang, Suraj Nair, Danfei Xu, Yuke Zhu, Animesh Garg, Li Fei-Fei, Silvio Savarese, Juan Carlos Niebles"
-pub_info_name: "Pre-print"
+authors: "De-an Huang*, Suraj Nair*, Danfei Xu*, Yuke Zhu, Animesh Garg, Li Fei-Fei, Silvio Savarese, Juan Carlos Niebles"
+pub_info_name: "arXiv preprint"
 pub_info_date: August 2018
 excerpt: text text text
 images:
