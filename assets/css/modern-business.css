@@ -220,6 +220,12 @@ header.carousel .fill {
     border-bottom: 1px solid #eee;
 }
 
+.page-header-people-dark {
+    padding-bottom: -5px;
+    margin: 20px 0 20px;
+    border-bottom: 1px solid #ccc;
+}
+
 .page-header-dark {
   padding-bottom: 9px;
   margin: 20px 0 20px;
