@@ -32,7 +32,7 @@ permalink: /people
               {% assign person = person_kv[1] %}
               <div class="col-md-4 img-portfolio">
                   <a href="{{ person.link }}" target="_blank">
-                      <img class="img-responsive img-hover" src="img/people/700x400/{{ person.img }}" alt="">
+                      <img class="img-responsive img-hover" src="/img/people/700x400/{{ person.img }}" alt="">
                   </a>
                   <h3><a href="{{ person.link }}" target="_blank">{{ person.name }}</a></h3>
                   <p class="person-title">{{ person.title }}</p>
@@ -58,7 +58,7 @@ permalink: /people
               {% assign person = person_kv[1] %}
                   <div class="col-md-4 img-portfolio">
                       <a href="{{ person.link }}" target="_blank">
-                          <img class="img-responsive img-hover" src="img/people/700x400/{{ person.img }}" alt="">
+                          <img class="img-responsive img-hover" src="/img/people/700x400/{{ person.img }}" alt="">
                       </a>
                       <h3><a href="{{ person.link }}" target="_blank">{{ person.name }}</a></h3>
                       <p class="person-title">{{ person.title }}</p>
@@ -83,7 +83,7 @@ permalink: /people
               {% assign person = person_kv[1] %}
                   <div class="col-md-4 img-portfolio">
                       <a href="{{ person.link }}" target="_blank">
-                          <img class="img-responsive img-hover" src="img/people/700x400/{{ person.img }}" alt="">
+                          <img class="img-responsive img-hover" src="/img/people/700x400/{{ person.img }}" alt="">
                       </a>
                       <h3><a href="{{ person.link }}" target="_blank">{{ person.name }}</a></h3>
                       <p class="person-title">{{ person.title }}</p>
