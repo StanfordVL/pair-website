@@ -20,9 +20,8 @@ theme: minima
 plugins:
   - jekyll-feed
   
-collections:
-  people:
-    output: true
+
+include: [".htaccess","_pages"]
   
 defaults:
   -
