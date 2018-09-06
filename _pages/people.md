@@ -54,7 +54,7 @@ permalink: /people
               <div class="page-header-people-dark"></div>
 
 
-              {% for person_id in site.data.people.alumni %} 
+              {% for person_kv in site.data.people.alumni %} 
               {% assign person = person_kv[1] %}
                   <div class="col-md-4 img-portfolio">
                       <a href="{{ person.link }}" target="_blank">
@@ -79,7 +79,7 @@ permalink: /people
             <span class="brand-sitename-title">Faculty & Industry Collaborators</span>
             <div class="page-header-people"></div>
 
-              {% for person_id in site.data.people.collab %} 
+              {% for person_kv in site.data.people.collab %} 
               {% assign person = person_kv[1] %}
                   <div class="col-md-4 img-portfolio">
                       <a href="{{ person.link }}" target="_blank">
