@@ -65,7 +65,7 @@ current_students:
 
   ajay_mandlekar:
     name: Ajay Mandlekar
-    img: ajay.jpg
+    img: ajay_mandlekar.png
     title: Ph.D. Student
     email: amandlek [at] stanford [dot] edu
 
@@ -92,7 +92,7 @@ current_students:
 
   william_shen:
     name: William Shen
-    img: williamshen.jpg
+    img: william_shen.jpg
     title: Ph.D. Student
     email: bshen88 [at] stanford [dot] edu
     link: //b0ku1.github.io
