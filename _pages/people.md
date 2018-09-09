@@ -29,7 +29,13 @@ permalink: /people
 
           {% for person_kv in site.data.people.faculty %} 
               {% assign person = person_kv[1] %}
-              <div class="col-md-4">
+              {% assign loopindex = forloop.index0 | modulo: 4 %}
+
+              {% if loopindex == 0 %}
+                <div class="col-lg-12 mar-top-30">
+              {% endif %}
+
+              <div class="col-md-3">
                   <a href="{{ person.link }}" target="_blank">
                       <img class="img-responsive img-hover img-portfolio" src="/img/people/700x400/{{ person.img }}" alt="">
                   </a>
@@ -37,7 +43,15 @@ permalink: /people
                   <p class="person-title">{{ person.title }}</p>
                   <p class="person-email">{{ person.email }}</p>
               </div>
+
+              {% if loopindex == 3 %}
+                </div>
+              {% endif %}
           {% endfor %}
+
+          {% if loopindex != 3 %}
+            </div>
+          {% endif %}
 
       </div>
 
@@ -49,7 +63,13 @@ permalink: /people
 
           {% for person_kv in site.data.people.postdocs %} 
               {% assign person = person_kv[1] %}
-              <div class="col-md-4">
+              {% assign loopindex = forloop.index0 | modulo: 4 %}
+
+              {% if loopindex == 0 %}
+                <div class="col-lg-12 mar-top-30">
+              {% endif %}
+
+              <div class="col-md-3">
                   <a href="{{ person.link }}" target="_blank">
                       <img class="img-responsive img-hover img-portfolio" src="/img/people/700x400/{{ person.img }}" alt="">
                   </a>
@@ -57,7 +77,16 @@ permalink: /people
                   <p class="person-title">{{ person.title }}</p>
                   <p class="person-email">{{ person.email }}</p>
               </div>
+
+              {% if loopindex == 3 %}
+                </div>
+              {% endif %}
           {% endfor %}
+
+          {% if loopindex != 3 %}
+            </div>
+          {% endif %}
+
       </div>
 
       <div class="row">
@@ -65,10 +94,15 @@ permalink: /people
               <h2 class=""><small>Students</small></h2>
           </div>
 
-
           {% for person_kv in site.data.people.current_students %} 
               {% assign person = person_kv[1] %}
-              <div class="col-md-4">
+              {% assign loopindex = forloop.index0 | modulo: 4 %}
+
+              {% if loopindex == 0 %}
+                <div class="col-lg-12 mar-top-30">
+              {% endif %}
+
+              <div class="col-md-3">
                   <a href="{{ person.link }}" target="_blank">
                       <img class="img-responsive img-hover img-portfolio" src="/img/people/700x400/{{ person.img }}" alt="">
                   </a>
@@ -76,10 +110,18 @@ permalink: /people
                   <p class="person-title">{{ person.title }}</p>
                   <p class="person-email">{{ person.email }}</p>
               </div>
-          {% endfor %}
-      </div>
 
-      <br/>
+              {% if loopindex == 3 %}
+                </div>
+              {% endif %}
+          {% endfor %}
+
+          {% if loopindex != 3 %}
+            </div>
+          {% endif %}
+
+      </div>
+      <br/><br/>
   </div>
 </div>
 
@@ -87,23 +129,22 @@ permalink: /people
 <div class="container-fluid container-colored">
     <br/><br/>
     <div class="container">
-      <div class="row" id="cerc">
+      <div class="row" id="alumni">
           <div class="col-lg-12">
-
               <span class="brand-sitename-title">Alumni</span>
               <div class="page-header-people-dark"></div>
 
               {% for person_kv in site.data.people.alumni %} 
               {% assign person = person_kv[1] %}
-                  <div class="col-md-4 img-portfolio">
+                  <div class="col-md-3">
                       <h3><a href="{{ person.link }}" target="_blank">{{ person.name }}</a></h3>
                       <p class="person-title">{{ person.title }}</p>
                   </div>
               {% endfor %}
           </div>
       </div>
-      <br/>
     </div>
+    <br/><br/>
 </div>
 
 
@@ -117,12 +158,13 @@ permalink: /people
 
               {% for person_kv in site.data.people.collab %} 
               {% assign person = person_kv[1] %}
-                  <div class="col-md-4 img-portfolio">
+                  <div class="col-md-3">
                       <h3><a href="{{ person.link }}" target="_blank">{{ person.name }}</a></h3>
                       <p class="person-title">{{ person.title }}</p>
                   </div>
               {% endfor %}
         </div>
     </div>
+    <br/><br/>
 </div>
 <!-- /.container -->
