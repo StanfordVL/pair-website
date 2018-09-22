@@ -37,7 +37,7 @@ permalink: /people
 
               <div class="col-md-3">
                   <a href="{{ person.link }}" target="_blank">
-                      <img class="img-responsive img-hover img-portfolio" src="/img/people/700x400/{{ person.img }}" alt="">
+                      <img class="img-responsive img-hover img-portfolio" src="{{ site.url }}/img/people/700x400/{{ person.img }}" alt="">
                   </a>
                   <h3><a href="{{ person.link }}" target="_blank">{{ person.name }}</a></h3>
                   <p class="person-title">{{ person.title }}</p>
@@ -71,7 +71,7 @@ permalink: /people
 
               <div class="col-md-3">
                   <a href="{{ person.link }}" target="_blank">
-                      <img class="img-responsive img-hover img-portfolio" src="/img/people/700x400/{{ person.img }}" alt="">
+                      <img class="img-responsive img-hover img-portfolio" src="{{ site.url }}/img/people/700x400/{{ person.img }}" alt="">
                   </a>
                   <h3><a href="{{ person.link }}" target="_blank">{{ person.name }}</a></h3>
                   <p class="person-title">{{ person.title }}</p>
@@ -104,7 +104,7 @@ permalink: /people
 
               <div class="col-md-3">
                   <a href="{{ person.link }}" target="_blank">
-                      <img class="img-responsive img-hover img-portfolio" src="/img/people/700x400/{{ person.img }}" alt="">
+                      <img class="img-responsive img-hover img-portfolio" src="{{ site.url }}/img/people/700x400/{{ person.img }}" alt="">
                   </a>
                   <h3><a href="{{ person.link }}" target="_blank">{{ person.name }}</a></h3>
                   <p class="person-title">{{ person.title }}</p>
