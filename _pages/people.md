@@ -135,16 +135,32 @@ permalink: /people
               <div class="page-header-people-dark"></div>
 
               {% for person_kv in site.data.people.alumni %} 
-              {% assign person = person_kv[1] %}
+                  {% assign person = person_kv[1] %}
+                  {% assign loopindex = forloop.index0 | modulo: 4 %}
+
+                  {% if loopindex == 0 %}
+                    <div class="col-lg-12 mar-bot-30">
+                  {% endif %}
+
                   <div class="col-md-3">
                       <h3><a href="{{ person.link }}" target="_blank">{{ person.name }}</a></h3>
                       <p class="person-title">{{ person.title }}</p>
                   </div>
+
+                  {% if loopindex == 3 %}
+                    </div>
+                  {% endif %}
+
               {% endfor %}
+
+              {% if loopindex != 3 %}
+                </div>
+              {% endif %}
+
           </div>
       </div>
     </div>
-    <br/><br/>
+    <br/>
 </div>
 
 
@@ -157,14 +173,30 @@ permalink: /people
             <div class="page-header-people"></div>
 
               {% for person_kv in site.data.people.collab %} 
-              {% assign person = person_kv[1] %}
+                  {% assign person = person_kv[1] %}
+                  {% assign loopindex = forloop.index0 | modulo: 4 %}
+
+                  {% if loopindex == 0 %}
+                    <div class="col-lg-12 mar-bot-30">
+                  {% endif %}
+
                   <div class="col-md-3">
                       <h3><a href="{{ person.link }}" target="_blank">{{ person.name }}</a></h3>
                       <p class="person-title">{{ person.title }}</p>
                   </div>
+
+                  {% if loopindex == 3 %}
+                    </div>
+                  {% endif %}
+
               {% endfor %}
+
+              {% if loopindex != 3 %}
+                </div>
+              {% endif %}
+
         </div>
     </div>
-    <br/><br/>
+    <!-- <br/><br/> -->
 </div>
 <!-- /.container -->
