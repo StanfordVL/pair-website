@@ -242,6 +242,11 @@ alumni:
 
 collab: 
 
+  ken_goldberg:
+    name: Ken Goldberg
+    title: Professor, Berkeley IEOR
+    link: //goldberg.berkeley.edu
+
   jeannette_bohg:
     name: Jeannette Bohg
     title: Assistant Professor, Stanford CS
