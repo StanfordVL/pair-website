@@ -1,18 +1,18 @@
 faculty:
 
-  fei_fei_li:
-    name: Fei-Fei Li
-    img: fei_fei_li.jpg
-    title: Professor
-    email: feifeili [at] cs.stanford [dot] edu
-    link: //vision.stanford.edu/feifeili/
-
   silvio_savarese:
     name: Silvio Savarese
     img: silvio_savarese.jpg
     title: Associate Professor
     email: silvio [at] cs.stanford [dot] edu
     link: //cvgl.stanford.edu/silvio/
+
+  fei_fei_li:
+    name: Fei-Fei Li
+    img: fei_fei_li.jpg
+    title: Professor
+    email: feifeili [at] cs.stanford [dot] edu
+    link: //vision.stanford.edu/feifeili/
 
 postdocs:
 
@@ -130,7 +130,7 @@ current_students:
 
   david_lin:
     name: David Lin
-    img: black_person.png
+    img: david_lin.jpg
     title: Undergraduate Student, Physics
     email: dlin15 [at] stanford [dot] edu
 
