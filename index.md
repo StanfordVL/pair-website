@@ -11,13 +11,13 @@ about: "PAIR website"
       <div class="col-md-6 img-portfolio">
         <h2 class="page-header-dark">About</h2>
         <p>
-            The Stanford People, AI, Robots Group (PAIR) is a research group under the <a href="http://svl.stanford.edu">Stanford Vision & Learning Lab</a> that focuses on solving the most important and challenging open problems at the intersection of computer vision, machine learning, and robotics.
+            Stanford People, AI & Robots Group (PAIR) is a research group under the <a href="http://svl.stanford.edu">Stanford Vision & Learning Lab</a> that focuses on developing methods and mechanisms for generalizable robot perception and control.
         </p>
         <p>
-            We develop novel computer vision and machine learning techniques to teach robots to perceive and to interact with the visual and physical world.
+            We work on challenging open problems at the intersection of computer vision, machine learning, and robotics. We develop algorithms and systems that unify in reinforcement learning, control theoretic modeling, and 2D/3D visual scene understanding to teach robots to perceive and to interact with the physical world.
         </p>
         <p>
-            We are actively seeking the best talents to join our group. Together we will push the envelope of the state-of-the-art of robot learning. Let's bring robots from highly structured laboratories to the unstructured real world!
+            We are always looking out for talented members to join our group. Please see our current openings at the <a href="{{ site.url }}/opportunities">Job Opportunities</a> page.
         </p>
       </div>
       <div class="col-md-6">

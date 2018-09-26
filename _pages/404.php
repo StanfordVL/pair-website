@@ -9,7 +9,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>404 Page Not Found | Stanford People, AI, Robots Group (PAIR)</title>
+    <title>404 Page Not Found | Stanford People, AI & Robots Group (PAIR)</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="https://aicare.stanford.edu/css/bootstrap.min.css" rel="stylesheet">
@@ -64,7 +64,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="https://aicare.stanford.edu/index.php">Stanford People, AI, Robots Group</a>
+            <a class="navbar-brand" href="https://aicare.stanford.edu/index.php">Stanford People, AI & Robots Group</a>
         </div>
         <!-- Collect the nav links, forms, and other content for toggling -->
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
