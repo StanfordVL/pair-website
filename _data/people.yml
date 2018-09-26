@@ -160,6 +160,12 @@ current_students:
     email: jaustinb [at] stanford [dot] edu
     link: //web.stanford.edu/~jaustinb/
 
+  max_spero:
+    name: Max Spero
+    img: max_spero.jpg
+    title: Undergraduate Student, CS
+    email: maxspero [at] stanford [dot] edu
+
   orien_zeng:
     name: Orien Zeng
     img: orien_zeng.jpeg
