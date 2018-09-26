@@ -180,6 +180,12 @@ current_students:
     title: Undergraduate Student, Physics
     email: jcreus [at] stanford [dot] edu
 
+  peter_dun:
+    name: Peter Dun
+    img: peter_dun.jpg
+    title: Undergraduate Student, CS
+    email: bodun [at] stanford [dot] edu
+
   chen_wang:
     name: Chen Wang
     img: chen_wang.jpg
