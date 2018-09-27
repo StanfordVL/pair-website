@@ -1,16 +1,18 @@
 faculty:
 
-  fei_fei_li:
-    name: Fei-Fei Li
-    img: fei_fei_li.jpg
-    title: Professor
-    email: feifeili [at] cs.stanford [dot] edu
-
   silvio_savarese:
     name: Silvio Savarese
     img: silvio_savarese.jpg
     title: Associate Professor
     email: silvio [at] cs.stanford [dot] edu
+    link: //cvgl.stanford.edu/silvio/
+
+  fei_fei_li:
+    name: Fei-Fei Li
+    img: fei_fei_li.jpg
+    title: Professor
+    email: feifeili [at] cs.stanford [dot] edu
+    link: //vision.stanford.edu/feifeili/
 
 postdocs:
 
@@ -31,204 +33,249 @@ postdocs:
   kai_hsiang_lin:
     name: Kai-Hsiang Lin
     img: kai_hsiang_lin.png
-    title: Visiting Scholar
+    title: Visiting Scholar, ITRI
     email: kaihlin [at] cs.stanford [dot] edu
+    link: //www.linkedin.com/in/kai-hsiang-lin-7a9a806/
 
 current_students:
 
   yuke_zhu:
     name: Yuke Zhu
-    img: yuke.jpg
-    title: Ph.D. Student
+    img: yuke_zhu.jpg
+    title: Ph.D. Student, CS
     email: yukez [at] cs.stanford [dot] edu
     link: //web.stanford.edu/~yukez
 
   kuan_fang:
     name: Kuan Fang
     img: kuan_fang.jpg
-    title: Ph.D. Student
+    title: Ph.D. Student, EE
     email: kuanfang [at] stanford [dot] edu
     link: //ai.stanford.edu/~kuanfang
 
   de_an_huang:
     name: De-An Huang
     img: de_an_huang.png
-    title: Ph.D. Student
+    title: Ph.D. Student, CS
     email: dahuang [at] cs.stanford [dot] edu
     link: //ai.stanford.edu/~dahuang/
 
   danfei_xu:
     name: Danfei Xu
     img: danfei_xu.png
-    title: Ph.D. Student
+    title: Ph.D. Student, CS
     email: danfei [at] stanford [dot] edu
+    link: //cs.stanford.edu/~danfei/
+
+  rachel_luo:
+    name: Rachel Luo
+    img: rachel_luo.jpg
+    title: Ph.D. Student, EE
+    email: rsluo [at] stanford [dot] edu
+    link: //www.linkedin.com/in/rachel-luo/
 
   ajay_mandlekar:
     name: Ajay Mandlekar
     img: ajay_mandlekar.png
-    title: Ph.D. Student
+    title: Ph.D. Student, EE
     email: amandlek [at] stanford [dot] edu
 
   jim_fan:
     name: Jim Fan
     img: jim_fan.png
-    title: Ph.D. Student
+    title: Ph.D. Student, CS
     email: jimfan [at] cs.stanford [dot] edu
     link: //jimfan.me
 
   andrey_kurenkov:
     name: Andrey Kurenkov
     img: andrey_kurenkov.jpg
-    title: Ph.D. Student
+    title: Ph.D. Student, CS
     email: andreyk [at] stanford [dot] edu
     link: //www.andreykurenkov.com
     twitter: andrey_kurenkov
 
   michelle_lee:
     name: Michelle Lee
-    img: michellelee.jpg
-    title: Ph.D. Student
+    img: michelle_lee.jpg
+    title: Ph.D. Student, ME
     email: mishlee [at] stanford [dot] edu
 
   william_shen:
     name: William Shen
     img: william_shen.jpg
-    title: Ph.D. Student
+    title: Ph.D. Student, CS
     email: bshen88 [at] stanford [dot] edu
     link: //b0ku1.github.io
+
+  alex_fu:
+    name: Alex (Kaiyi) Fu
+    img: alexander_fu.jpg
+    title: Master's Student, CS
+    email: alexkfu6 [at] stanford [dot] edu
+
+  anchit_gupta:
+    name: Anchit Gupta
+    img: anchit_gupta.jpeg
+    title: Master's Student, CS
+    email: anchitg [at] stanford [dot] edu
+    link: //www.linkedin.com/in/anchitgupta
 
   jiren_zhu:
     name: Jiren Zhu
     img: jiren_zhu.png
     title: Undergraduate, Math
     email: jirenz [at] stanford [dot] edu
-
-  rachel_luo:
-    name: Rachel Luo
-    img: rachel.jpg
-    title: Ph.D. Student
-    email: rsluo [at] stanford [dot] edu
+    link: //jirenz.github.io/
 
   david_lin:
     name: David Lin
-    img: davidlin.jpg
-    title: Undergraduate Student
+    img: david_lin.jpg
+    title: Undergraduate Student, Physics
     email: dlin15 [at] stanford [dot] edu
 
   justin_rose:
     name: Justin Rose
-    img: justinrose.jpg
-    title: Undergraduate Student
+    img: justin_rose.jpg
+    title: Undergraduate Student, Math & CS
     email: justrose [at] stanford [dot] edu
-
-  alex_fu:
-    name: Alex (Kaiyi) Fu
-    img: alexfu.jpg
-    title: Master's Student
-    email: alexkfu6 [at] stanford [dot] edu
-
-  anchit_gupta:
-    name: Anchit Gupta
-    img: anchit.jpg
-    title: Master's Student
-    email: anchitg [at] stanford [dot] edu
 
   albert_tung:
     name: Albert Tung
-    img: alberttung.jpg
-    title: Undergraduate Student
+    img: albert_tung.jpeg
+    title: Undergraduate Student, CS
+    email: atung3 [at] stanford [dot] edu
+    link: //www.alberttung.com/
 
   daniel_cai:
     name: Daniel Cai
-    img: danielcai.jpg
-    title: Undergraduate Student
+    img: daniel_cai.jpeg
+    title: Undergraduate Student, SymSys
     email: danieltc [at] stanford [dot] edu
 
   jonathan_booher:
     name: Jonathan Booher
-    img: jonathanbooher.jpg
-    title: Undergraduate Student
+    img: jonathan_booher.jpeg
+    title: Undergraduate Student, CS
     email: jaustinb [at] stanford [dot] edu
+    link: //web.stanford.edu/~jaustinb/
+
+  max_spero:
+    name: Max Spero
+    img: max_spero.jpg
+    title: Undergraduate Student, CS
+    email: maxspero [at] stanford [dot] edu
 
   orien_zeng:
     name: Orien Zeng
-    img: orien_zeng.jpg
-    title: Undergraduate Student
+    img: orien_zeng.jpeg
+    title: Undergraduate Student, CS
     email: ozeng [at] stanford [dot] edu
+    link: //www.linkedin.com/in/orien-zeng-054589b6
 
   zihua_liu:
     name: Zihua Liu
     img: zihua_liu.jpg
-    title: Undergraduate Student
+    title: Undergraduate Student, CS
     email: zliu19 [at] stanford [dot] edu
+    link: //www.linkedin.com/in/zihua-james-liu-33325b65/
 
   joan_creus_costa:
     name: Joan Creus-Costa
     img: joan_creus_costa.jpg
-    title: Undergraduate Student
+    title: Undergraduate Student, Physics
     email: jcreus [at] stanford [dot] edu
+
+  peter_dun:
+    name: Peter Dun
+    img: peter_dun.jpg
+    title: Undergraduate Student, CS
+    email: bodun [at] stanford [dot] edu
 
   chen_wang:
     name: Chen Wang
-    title: Visiting Scholar
+    img: chen_wang.jpg
+    title: Visiting Scholar, SJTU
     email: chenwj [at] stanford [dot] edu
 
-  jiren_zhu:
-    name: Jiren Zhu
-    title: Undergraduate Student
-    email: jirenz [at] stanford [dot] edu
-
 alumni:
+
   russell_kaplan:
     name: Russell Kaplan
     title: Undergraduate, CS
-    link: //
+    link: //www.linkedin.com/in/russelljkaplan/
 
   boris_ivanovic:
     name: Boris Ivanovic
-    title: Master's Student
+    title: Master's Student, CS
     link: //www.borisivanovic.com/
-
-  julian_gao:
-    name: Julian Gao
-    title: Master's Student
-
-  lucio_dery:
-    name: Lucio Dery
-    title: Undergraduate, CS
-
-  viraj_mehta:
-    name: Viraj Mehta
-    title: Undergraduate, CS
-
-  zhaozhuo_xu:
-    name: Zhaozhuo Xu
-    title: Master's Student
-
-  nancy_xu:
-    name: Nancy Xu
-    title: Undergraduate
-
-  pengda_liu:
-    name: Pengda Liu
-    title: Undergraduate
-
-  yurong_you:
-    name: Yurong You
-    title: Visiting Scholar
-    email: yurongyou [at] stanford [dot] edu
-    link: //yurongyou.com
-
-
-collab: 
-
-  ozan_sener:
-    name: Ozan Sener
-    title: Postdoctoral Researcher
-    email: ozansener [at] cs.stanford [dot] edu
 
   james_harrison:
     name: James Harrison
-    title: Ph.D. Student in Stanford AA
+    title: Master's Student, AA
     email: jharrison [at] stanford [dot] edu
+    link: //web.stanford.edu/~jh2/
 
+  julian_gao:
+    name: Julian Gao
+    title: Master's Student, CS
+    link: //julianygao.me/
+
+  lucio_dery:
+    name: Lucio Dery
+    title: Undergraduate, Physics
+    link: //www.linkedin.com/in/lucio-dery/
+
+  viraj_mehta:
+    name: Viraj Mehta
+    title: Undergraduate, Math
+    link: //www.linkedin.com/in/virajrmehta/
+
+  zhaozhuo_xu:
+    name: Zhaozhuo Xu
+    title: Master's Student, CS
+    link: //www.linkedin.com/in/zhaozhuo-xu-894b5b123
+
+  nancy_xu:
+    name: Nancy Xu
+    title: Undergraduate, CS
+    link: //www.linkedin.com/in/xnancy/
+
+  pengda_liu:
+    name: Pengda Liu
+    title: Undergraduate, Math & CS
+    link: //www.linkedin.com/in/pengda-liu-21905a126/
+
+  yurong_you:
+    name: Yurong You
+    title: Visiting Scholar, SJTU
+    email: yurongyou [at] stanford [dot] edu
+    link: //yurongyou.com
+
+collab: 
+
+  ken_goldberg:
+    name: Ken Goldberg
+    title: Professor, Berkeley IEOR
+    link: //goldberg.berkeley.edu
+
+  jeannette_bohg:
+    name: Jeannette Bohg
+    title: Assistant Professor, Stanford CS
+    link: //am.is.tuebingen.mpg.de/person/jbohg
+
+  marco_pavone:
+    name: Marco Pavone
+    title: Assistant Professor, Stanford AA
+    link: //web.stanford.edu/~pavone/
+
+  juan_carlos_niebles:
+    name: Juan Carlos Niebles
+    title: Senior Research Scientist, Stanford CS
+    link: //www.niebles.net/
+
+  ozan_sener:
+    name: Ozan Sener
+    title: Postdoctoral Researcher, Stanford
+    email: ozansener [at] cs.stanford [dot] edu
+    link: //ozansener.net/

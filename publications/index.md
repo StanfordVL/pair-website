@@ -21,7 +21,7 @@ about: "PAIR Publications"
 
   {% for publication in site.categories.publications %}  
     {% capture year %}{{ publication.date | date: '%Y' }}{% endcapture %}
-      {% if year != written_year %} 
+      {% if year != written_year %}
         {% include _publication_list_year.html %}
       {% endif %}
       {% capture written_year %}{{ year }}{% endcapture %}
