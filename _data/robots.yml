@@ -1,0 +1,41 @@
+sawyers:
+
+  sawyer_1:
+    name: Sawyer 1
+    img: sawyer.jpg
+    title: idk
+
+  sawyer_2:
+    name: Sawyer 2
+    img: sawyer_2.jpg
+    title: idk
+
+  sawyer_3:
+    name: Sawyer 3
+    img: sawyer_3.jpg
+    title: idk
+    
+pandas:
+
+  sawyer_1:
+    name: Panda 1
+    img: panda.jpg
+    title: idk
+
+  sawyer_2:
+    name: Panda 2
+    img: panda_2.jpg
+    title: idk
+
+  sawyer_3:
+    name: Panda 3
+    img: panda_3.jpg
+    title: idk
+
+mobile:
+
+  jr2:
+    name: JackRabbot 2
+    img: jr2.jpg
+    title: Fancy custom robots
+
