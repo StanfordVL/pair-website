@@ -27,13 +27,13 @@ permalink: /opportunities
             <p>We are actively looking out for new talents in the following three positions. For inquiry and application, please send emails to If you are interested please contact <a href="http://animesh.garg.tech/">Animesh Garg</a> and <a href="http://web.stanford.edu/~yukez">Yuke Zhu</a> for more information.</p>
             <ul>
               <li>Research Assistants at the level of BS/MS Students (Enrolled Stanford students)</li>
-              <li>Robotics Research Residents (See below)</li>
+              <!-- <li>Robotics Research Residents (See below)</li> -->
               <li>Postdoctoral Fellows</li>
             </ul>
           </div>
       </div>
 
-      <div class="row">
+      <!-- <div class="row">
           <div class="col-lg-12 news-list">
             <h2>Stanford SVL Research Residency Program</h2>
             <p><a href="http://svl.stanford.edu">Stanford Vision and Learning (SVL) Lab</a> is initiating a new research residency program, designed to give you hands-on experiences in cutting-edge research at the intersection of artificial intelligence and robotics. This program offers a full-time research position, where residents will work with professors, postdocs, and graduate students in SVL. We are working on challenging open problems in robotic manipulation and developing new machine learning and computer vision methods to scale up robots from laboratories to the real world. Visit our <a href="{{ site.url }}/publications">publication website</a> for examples of robot learning research performed in our lab.</p>
@@ -78,7 +78,7 @@ permalink: /opportunities
 
             <p><strong>Contact</strong><br>For application and other inquiries, please contact <a href="http://web.stanford.edu/~yukez">Yuke Zhu</a> (yukez@cs.stanford.edu).</p>
           </div>
-      </div>
+      </div> -->
 
 </div>
 <!-- /.container -->
