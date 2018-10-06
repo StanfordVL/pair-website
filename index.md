@@ -17,7 +17,7 @@ about: "PAIR website"
             We work on challenging open problems at the intersection of computer vision, machine learning, and robotics. We develop algorithms and systems that unify in reinforcement learning, control theoretic modeling, and 2D/3D visual scene understanding to teach robots to perceive and to interact with the physical world.
         </p>
         <p>
-            We are always looking out for talented members to join our group. Please see our current openings at the <a href="{{ site.url }}/opportunities">Job Opportunities</a> page.
+            We are always looking out for talented members to join our group. Please see our current openings at the <a href="{{ site.url }}/join">Join Us</a> page.
         </p>
       </div>
       <div class="col-md-6">

@@ -1,8 +1,8 @@
 ---
 layout: base
-title: Job Opportunities
-about: "PAIR Job Opportunities"
-permalink: /opportunities
+title: Join Us
+about: "PAIR Join Us"
+permalink: /join
 ---
 <!-- Page Content -->
 <div class="container-fluid">
