@@ -21,7 +21,7 @@ about: "PAIR website"
         </p>
       </div>
       <div class="col-md-6">
-          <img class="img-responsive" src="./img/jumbotron/small_group.jpg" alt="">
+          <img class="img-responsive" src="./img/jumbotron/group.jpg" alt="">
       </div>
     </div>
   </div>
