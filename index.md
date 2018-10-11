@@ -21,7 +21,9 @@ about: "PAIR website"
         </p>
       </div>
       <div class="col-md-6">
-          <img class="img-responsive" src="./img/jumbotron/group.jpg" alt="">
+          <a href="{{ site.url }}/img/jumbotron/group_original.jpg">
+            <img class="img-responsive" src="{{ site.url }}/img/jumbotron/group.jpg" alt="">
+          </a>
       </div>
     </div>
   </div>
