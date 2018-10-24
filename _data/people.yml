@@ -89,7 +89,7 @@ current_students:
 
   andrey_kurenkov:
     name: Andrey Kurenkov
-    img: andrey_kurenkov.jpg
+    img: andrey_kurenkov.png
     title: Ph.D. Student, CS
     email: andreyk [at] stanford [dot] edu
     link: //www.andreykurenkov.com
@@ -107,6 +107,13 @@ current_students:
     title: Ph.D. Student, CS
     email: bshen88 [at] stanford [dot] edu
     link: //b0ku1.github.io
+
+  simon_kalouche:
+    name: Simon Kalouche
+    img: simon_kalouche.png
+    title: Ph.D. Student, CS
+    email: kalouche [at] cs [dot] stanford [dot] edu
+    link: //http://simonkalouche.com/
 
   alex_fu:
     name: Alex (Kaiyi) Fu
