@@ -7,8 +7,8 @@ pub_info_name: "arXiv preprint"
 pub_info_date: October 2018
 excerpt: text text text
 images:
-  thumb: huang-arxiv18-ntg.jpg
-  main: huang-arxiv18-ntg.jpg
+  thumb: lee-arxiv18-multimodal.png
+  main: lee-arxiv18-multimodal.png
 paper_link: "https://arxiv.org/abs/1810.10191"
 webpage_link: "https://sites.google.com/view/visionandtouch"
 video_link: "https://youtu.be/TjwDJ_R2204"
