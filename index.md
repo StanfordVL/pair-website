@@ -35,6 +35,7 @@ about: "PAIR website"
       <div class="col-lg-12">
           <h2 class="page-header">News</h2>
           <ul class="news-list">
+            <li>We released <a href="https://sites.google.com/view/visionandtouch">our new paper</a> on learning multimodal representations for robot manipulation.</li>
             <li>Two papers from PAIR are accepted at <a href="http://www.robot-learning.org/">CoRL 2018</a>.</li>
             <li>We have released <a href="publications">our new paper</a> on one-shot visual imitation with neural task graphs.</li>
           </ul>
@@ -48,22 +49,35 @@ about: "PAIR website"
       <div class="col-lg-12">
           <h2 class="page-header">Project Highlights</h2>
       </div>
-      <div class="col-md-4">
-          <a href="https://arxiv.org/abs/1807.03480">
-            <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/neural_task_graph.png" alt="">
+      <div class="col-md-4 mar-bot-25">
+          <a href="https://sites.google.com/view/visionandtouch">
+            <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/multimodal.png" alt="">
           </a>
       </div>
-      <div class="col-md-4">
+      <div class="col-md-4 mar-bot-25">
+          <a href="http://roboturk.stanford.edu">
+            <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/roboturk.png" alt="">
+          </a>
+      </div>
+      <div class="col-md-4 mar-bot-25">
+          <a href="http://surreal.stanford.edu">
+            <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/surreal.png" alt="">
+          </a>
+      </div>
+      <div class="col-md-4 mar-bot-25">
           <a href="https://sites.google.com/view/task-oriented-grasp">
               <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/task_oriented_grasping.png" alt="">
           </a>
       </div>
-      <div class="col-md-4">
+      <br>
+      <div class="col-md-4 mar-bot-25">
           <a href="https://stanfordvl.github.io/ntp/">
             <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/neural_task_programming.png" alt="">
           </a>
       </div>
   </div>
+
+
   <!-- /.row -->
 
 
