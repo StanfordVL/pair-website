@@ -30,7 +30,10 @@ permalink: /robots
           {% for robot_kv in site.data.robots.sawyers %} 
               {% assign robot = robot_kv[1] %}
               <div class="col-md-4">
-                   <img class="img-responsive img-hover img-portfolio" src="/img/robots/{{ robot.img }}" alt="">
+                  <div class="hover_img_switch">
+                       <img class="img-responsive img-seen-default img-portfolio" src="/img/robots/{{ robot.img }}" alt="">
+                       <img class="img-responsive img-seen-hover img-portfolio" src="/img/robots/{{ robot.img_alt }}" alt="">
+                  </div>
                   <h3>{{ robot.name }}</h3>
                   <p class="person-title">{{ robot.title }}</p>
               </div>

@@ -12,22 +12,26 @@ sawyers:
 
   sawyer_3:
     name: The Vision
-    img: sawyer.jpg
+    img: thevision.jpg
+    img_alt: thevision_alt.jpg
     title: A new addition to the farm. He likes to go and help the Avengers fight crime in his spare time. Thanos had better watch out.
     
   sawyer_4:
     name: Bender
-    img: sawyer.jpg
+    img: bender.jpg
+    img_alt: bender_alt.jpg
     title: A new addition to the farm. He really likes beer, and can be a jerk at times.
     
   sawyer_5:
     name: TARS
-    img: sawyer.jpg
+    img: tars.jpg
+    img_alt: tars_alt.gif
     title: A new addition to the farm. Designed for interstellar travel.
 
   sawyer_6:
     name: HAL
-    img: sawyer.jpg
+    img: hal.jpg
+    img_alt: hal_alt.jpg
     title: A new addition to the farm. Moonlights as an astronaut. You probably shouldn't trust what he says.
     
 pandas:

@@ -113,6 +113,28 @@ a:hover {
     opacity: 0.8;
 }
 
+
+.img-seen-hover, .hover_img_switch:hover .img-seen-default{
+     display:none
+}
+
+.img-seen-default, .hover_img_switch:hover .img-seen-hover{
+      display:block
+}
+
+.hover_img_switch .img-seen-default {
+  z-index: 9999;
+  transition: opacity .5s linear;
+  cursor: pointer;
+}
+
+/* When we hover the figure element, the block with .swap-on-hover, we want to use > so the front-image is going to have opacity of 0, which means it will be hidden, to the back image will show */
+.hover_img_switch:hover > .img-seen-default{
+  opacity: 0;
+}
+
+
+
 .navbar {
     background-color: #f2f1eb;
     margin-bottom: 0;
