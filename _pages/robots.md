@@ -50,9 +50,10 @@ permalink: /robots
           {% for robot_kv in site.data.robots.pandas %} 
               {% assign robot = robot_kv[1] %}
               <div class="col-md-4">
-                  <a href="{{ person.link }}" target="_blank">
-                      <img class="img-responsive img-hover img-portfolio" src="/img/robots/{{ robot.img }}" alt="">
-                  </a>
+                  <div class="hover_img_switch">
+                       <img class="img-responsive img-seen-default img-portfolio" src="/img/robots/{{ robot.img }}" alt="">
+                       <img class="img-responsive img-seen-hover img-portfolio" src="/img/robots/{{ robot.img_alt }}" alt="">
+                  </div>
                   <h3>{{ robot.name }}</h3>
                   <p class="person-title">{{ robot.title }}</p>
               </div>
@@ -69,8 +70,8 @@ permalink: /robots
       <div class="row" id="cerc">
           <div class="col-lg-12">
 
-              <span class="brand-sitename-title">Mobile Manipulators</span>
-              <div class="page-header-people-dark"></div>
+          <span class="brand-sitename-title">Mobile Manipulators</span>
+          <div class="page-header-people-dark"></div>
 
           {% for robot_kv in site.data.robots.mobile %} 
               {% assign robot = robot_kv[1] %}

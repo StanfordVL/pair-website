@@ -2,12 +2,14 @@ sawyers:
 
   sawyer_1:
     name: C3PO
-    img: sawyer.jpg
+    img: c3po.jpg
+    img_alt: c3po_alt.jpg
     title: One of the oldest members of PAIR. He is extremely polite and well-behaved.
 
   sawyer_2:
     name: BB-8
-    img: sawyer.jpg
+    img: bb-8.jpg
+    img_alt: bb-8_alt.jpg
     title: One of the oldest members of PAIR. He's a little rambunctuous, but means well. 
 
   sawyer_3:
@@ -38,12 +40,14 @@ pandas:
 
   panda_1:
     name: Brainiac
-    img: panda.jpg
+    img: brainiac.jpg
+    img_alt: brainiac_alt.jpg
     title: A new addition to the farm. A twelfth-level intellect. Nothing can stop him, not even Superman.
 
   panda_2:
     name: Goddard
-    img: panda.jpg
+    img: goddard.jpg
+    img_alt: goddard_alt.png
     title: A new addition to the farm. He's such a good boy.
 
 
