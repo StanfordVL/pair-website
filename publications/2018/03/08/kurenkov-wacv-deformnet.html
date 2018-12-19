@@ -10,12 +10,12 @@
     <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     
-    <title>Finding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Video &#8211; Stanford PAIR Website</title>
+    <title>DeformNet: Free-Form Deformation Network for 3d Shape Reconstruction From a Single Image &#8211; Stanford PAIR Website</title>
     <meta name="description" content="text text text">
     <meta name="keywords" content="">
 
     <!-- Twitter Cards -->
-<meta name="twitter:title" content="Finding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Video">
+<meta name="twitter:title" content="DeformNet: Free-Form Deformation Network for 3d Shape Reconstruction From a Single Image">
 <meta name="twitter:description" content="text text text">
 
 
@@ -26,9 +26,9 @@
 <!-- Open Graph -->
 <meta property="og:locale" content="">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Finding “It”: Weakly-Supervised Reference-Aware Visual Grounding in Instructional Video">
+<meta property="og:title" content="DeformNet: Free-Form Deformation Network for 3d Shape Reconstruction From a Single Image">
 <meta property="og:description" content="text text text">
-<meta property="og:url" content="http://localhost:4000/publications/2018/06/01/huang-cvpr18-findingit.html">
+<meta property="og:url" content="http://localhost:4000/publications/2018/03/08/kurenkov-wacv-deformnet.html">
 <meta property="og:site_name" content="Stanford PAIR Website">
 
     
@@ -122,9 +122,9 @@
 </nav>
 
     
-    <img src="/publications/images/huang-cvpr18-findingit.jpg" style="max-width:80%" alt="main">
+    <img src="/publications/images/kurenkov-wacv18-deformnet.png" style="max-width:80%" alt="main">
 
-<p>Grounding textual phrases in visual content with standalone image-sentence pairs is a challenging task. When we consider grounding in instructional videos, this problem becomes profoundly more complex: the latent temporal structure of instructional videos breaks independence assumptions and necessitates contextual understanding for resolving ambiguous visual-linguistic cues. Furthermore, dense annotations and video data scale mean supervised approaches are prohibitively costly. In this work, we propose to tackle this new task with a weakly-supervised framework for reference-aware visual grounding in instructional videos, where only the temporal alignment between the transcription and the video segment are available for supervision. We introduce the visually grounded action graph, a structured representation capturing the latent dependency between grounding and references in video. For optimization, we propose a new reference-aware multiple instance learning (RA-MIL) objective for weak supervision of grounding in videos. We evaluate our approach over unconstrained videos from YouCookII and RoboWatch, augmented with new reference-grounding test set annotations. We demonstrate that our jointly optimized, reference-aware approach simultaneously improves visual grounding, reference-resolution, and generalization to unseen instructional video categories.</p>
+<p>3D reconstruction from a single image is a key problem in multiple applications ranging from robotic manipulation to augmented reality. Prior methods have tackled this problem through generative models which predict 3D reconstructions as voxels or point clouds. However, these methods can be computationally expensive and miss fine details. We introduce a new differentiable layer for 3D data deformation and use it in DeformNet to learn a model for 3D reconstruction-through-deformation. DeformNet takes an image input, searches the nearest shape template from a database, and deforms the template to match the query image. We evaluate our approach on the ShapeNet dataset and show that - (a) the Free-Form Deformation layer is a powerful new building block for Deep Learning models that manipulate 3D data (b) DeformNet uses this FFD layer combined with shape retrieval for smooth and detail-preserving 3D reconstruction of qualitatively plausible point clouds with respect to a single query image (c) compared to other state-of-the-art 3D reconstruction methods, DeformNet quantitatively matches or outperforms their benchmarks by significant margins.</p>
 
 
 
