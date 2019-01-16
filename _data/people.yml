@@ -30,13 +30,6 @@ postdocs:
     email: roberto.martinmartin [at] stanford [dot] edu
     link: //www.robotics.tu-berlin.de/menue/team/roberto_martin_martin
 
-  kai_hsiang_lin:
-    name: Kai-Hsiang Lin
-    img: kai_hsiang_lin.png
-    title: Visiting Scholar, ITRI
-    email: kaihlin [at] cs.stanford [dot] edu
-    link: //www.linkedin.com/in/kai-hsiang-lin-7a9a806/
-
 current_students:
 
   yuke_zhu:
@@ -135,38 +128,12 @@ current_students:
     email: bliuxix [at] stanford [dot] edu
     link: //www.linkedin.com/in/liu-bo-ab8030107
 
-  amelia_bian:
-    name: Amelia (Qingyun) Bian
-    img: amelia_bian.jpg
-    title: Master's Student, ME
-    email: qb1 [at] stanford [dot] edu
-    link: //ameliabqy.github.io
-
-  tieler_callazo:
-    name: Tieler Callazo
-    img: tieler_callazo.jpg
-    title: Master's Student, ME
-    email: tieler [at] stanford [dot] edu
-    link: //www.linkedin.com/in/tielercallazo/
-
   jiren_zhu:
     name: Jiren Zhu
     img: jiren_zhu.png
     title: Undergraduate, Math
     email: jirenz [at] stanford [dot] edu
     link: //jirenz.github.io/
-
-  david_lin:
-    name: David Lin
-    img: david_lin.jpg
-    title: Undergraduate Student, Physics
-    email: dlin15 [at] stanford [dot] edu
-
-  justin_rose:
-    name: Justin Rose
-    img: justin_rose.jpg
-    title: Undergraduate Student, Math & CS
-    email: justrose [at] stanford [dot] edu
 
   albert_tung:
     name: Albert Tung
@@ -279,6 +246,34 @@ alumni:
     title: Visiting Scholar, SJTU
     email: yurongyou [at] stanford [dot] edu
     link: //yurongyou.com
+
+  amelia_bian:
+    name: Amelia (Qingyun) Bian
+    title: Master's Student, ME
+    email: qb1 [at] stanford [dot] edu
+    link: //ameliabqy.github.io
+
+  tieler_callazo:
+    name: Tieler Callazo
+    title: Master's Student, ME
+    email: tieler [at] stanford [dot] edu
+    link: //www.linkedin.com/in/tielercallazo/
+
+  david_lin:
+    name: David Lin
+    title: Undergraduate Student, Physics
+    email: dlin15 [at] stanford [dot] edu
+
+  justin_rose:
+    name: Justin Rose
+    title: Undergraduate Student, Math & CS
+    email: justrose [at] stanford [dot] edu
+
+  kai_hsiang_lin:
+    name: Kai-Hsiang Lin
+    title: Visiting Scholar, ITRI
+    email: kaihlin [at] cs.stanford [dot] edu
+    link: //www.linkedin.com/in/kai-hsiang-lin-7a9a806/
 
 collab: 
 
