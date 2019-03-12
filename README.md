@@ -2,7 +2,7 @@
 
 This repo contains the Jekyll files for the [Stanford People, AI & Robots (PAIR) Group website](https://pair.stanford.edu). Please submit pull requests when updating the website.
 
-To compile site for production, use `JEKYLL_ENV=production bundle exec jekyll build`.
+To compile site for production, use `JEKYLL_ENV=production bundle exec jekyll build`, or 'octopress build'.
 
 To update site, run above command, then 'octopress deploy', and then cd to dir where site is hosted (/afs/.cs/group/pair/www) and just run 'git pull'.
 
