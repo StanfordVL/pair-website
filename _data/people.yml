@@ -121,6 +121,12 @@ current_students:
     title: Undergraduate Student, CS
     email: jaustinb [at] stanford [dot] edu
     link: //web.stanford.edu/~jaustinb/
+    
+  matt_ricks:
+    name: Matthew Ricks
+    img: matt.jpg
+    title: Master's Student, ME
+    email: ricks [at] stanford [dot] edu
 
 alumni:
 
