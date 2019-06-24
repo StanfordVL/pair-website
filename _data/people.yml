@@ -127,6 +127,12 @@ current_students:
     img: matt.jpg
     title: Master's Student, ME
     email: ricks [at] stanford [dot] edu
+    
+  marcus_dk:
+    name: Marcus Dominguez-Kuhne
+    img: marcus.jpeg
+    title: Undergraduate Student Caltech
+    email: mddoming [at] caltech [dot] edu
 
 alumni:
 
