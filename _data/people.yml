@@ -93,6 +93,13 @@ current_students:
     title: Ph.D. Student, CS
     email: bshen88 [at] stanford [dot] edu
     link: //b0ku1.github.io
+    
+  suraj_nair:
+    name: Suraj Nair
+    img: suraj.jpg
+    title: Ph.D. Student, CS
+    email: surajn [at] stanford [dot] edu
+    link: //surajnair.com
 
   simon_kalouche:
     name: Simon Kalouche
