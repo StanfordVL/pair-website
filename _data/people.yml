@@ -133,6 +133,13 @@ current_students:
     img: marcus.jpeg
     title: Undergraduate Student Caltech
     email: mddoming [at] caltech [dot] edu
+    
+  andrew_kondrich:
+    name: Andrew Kondrich
+    img: andrew.jpg
+    title: Undergraduate Student CS
+    email: andrewk1 [at] stanford [dot] edu
+    link: //andrewkondrich.com
 
 alumni:
 
