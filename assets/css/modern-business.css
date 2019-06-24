@@ -17,7 +17,6 @@ body {
 }
 
 body {
-    padding-top: 50px; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
     font-family: 'Roboto', sans-serif;
 }
 
@@ -133,8 +132,6 @@ a:hover {
   opacity: 0;
 }
 
-
-
 .navbar {
     background-color: #f2f1eb;
     margin-bottom: 0;
@@ -148,6 +145,13 @@ a:hover {
     line-height: 25px;
 }
 
+@media (max-width: 767px) {
+    .navbar-default .navbar-brand {
+    font-size: 16px;
+  }
+}
+
+
 .navbar-default .navbar-text {
     color: #2e2d29;
     font-weight: 200;
@@ -158,18 +162,19 @@ a:hover {
     font-weight: 400;
     font-size: 16px;
     line-height: 25px;
+    background-color: #f2f1eb;
 }
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
     color: #8C1515;
-    background-color: transparent;
+    background-color: #f2f1eb;
 }
 
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus {
     color: #8C1515;
-    background-color: transparent;
+    background-color: #f2f1eb;
 }
 
 .nav-tabs > li.active > a,
@@ -300,7 +305,7 @@ footer {
 
 /* Responsive Styles */
 
-@media (max-width: 991px) {
+@media (max-width: 767px) {
     .customer-img,
     .img-related {
         margin-bottom: 30px;

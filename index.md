@@ -4,8 +4,8 @@ title: Home
 about: "PAIR website"
 ---
 
-<!-- Page Content -->
-<div class="container-fluid">
+<div class="container">
+  <!-- Page Content -->
   <div class="container">
     <div class="row mar-top-20">
       <div class="col-md-6 img-portfolio">
@@ -27,80 +27,68 @@ about: "PAIR website"
       </div>
     </div>
   </div>
-</div>
 
-<div class="container">
-  <!-- Portfolio Section -->
-  <div class="row">
-      <div class="col-lg-12">
-          <h2 class="page-header">News</h2>
-          <ul class="news-list">
-            <li>We released <a href="https://sites.google.com/view/densefusion">our new paper</a> on 6D pose estimation from RGB-D data.</li>
-            <li>We released <a href="https://sites.google.com/view/visionandtouch">our new paper</a> on learning multimodal representations for robot manipulation.</li>
-            <li>Two papers from PAIR are accepted at <a href="http://www.robot-learning.org/">CoRL 2018</a>.</li>
-            <li>We have released <a href="publications">our new paper</a> on one-shot visual imitation with neural task graphs.</li>
-          </ul>
-      </div>
-  </div>
-</div>
-
-<div class="container">
-  <!-- Portfolio Section -->
-  <div class="row">
-      <div class="col-lg-12">
-          <h2 class="page-header">Project Highlights</h2>
-      </div>
-      <div class="col-md-4 mar-bot-25">
-          <a href="https://sites.google.com/view/densefusion">
-            <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/6dof_pose.png" alt="">
-          </a>
-      </div>
-      <div class="col-md-4 mar-bot-25">
-          <a href="https://sites.google.com/view/visionandtouch">
-            <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/multimodal.png" alt="">
-          </a>
-      </div>
-      <div class="col-md-4 mar-bot-25">
-          <a href="http://roboturk.stanford.edu">
-            <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/roboturk.png" alt="">
-          </a>
-      </div>
-      <div class="col-md-4 mar-bot-25">
-          <a href="http://surreal.stanford.edu">
-            <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/surreal.png" alt="">
-          </a>
-      </div>
-      <div class="col-md-4 mar-bot-25">
-          <a href="https://sites.google.com/view/task-oriented-grasp">
-              <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/task_oriented_grasping.png" alt="">
-          </a>
-      </div>
-      <br>
-      <div class="col-md-4 mar-bot-25">
-          <a href="https://stanfordvl.github.io/ntp/">
-            <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/neural_task_programming.png" alt="">
-          </a>
-      </div>
+  <div class="container">
+    <!-- Portfolio Section -->
+    <div class="row">
+        <div class="col-lg-12">
+            <h2 class="page-header">News</h2>
+            <ul class="news-list">
+              <li>Our <a href="https://sites.google.com/view/visionandtouch">ICRA paper</a> on learning multimodal representations for robot manipulation won the Best Paper award.</li>
+              
+              <img class="img-responsive" style="width:50%" src="{{ site.url }}/img/news/award.jpg" alt="">
+              <li>We released <a href="https://sites.google.com/view/densefusion">our new paper</a> on 6D pose estimation from RGB-D data.</li>
+              <li>Two papers from PAIR are accepted at <a href="http://www.robot-learning.org/">CoRL 2018</a>.</li>
+              <li>We have released <a href="publications">our new paper</a> on one-shot visual imitation with neural task graphs.</li>
+            </ul>
+        </div>
+    </div>
   </div>
 
+  <div class="container">
+    <!-- Portfolio Section -->
+    <div class="row">
+        <div class="col-lg-12">
+            <h2 class="page-header">Project Highlights</h2>
+        </div>
+        <div class="col-md-4 mar-bot-25">
+            <a href="https://sites.google.com/view/densefusion">
+              <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/6dof_pose.png" alt="">
+            </a>
+        </div>
+        <div class="col-md-4 mar-bot-25">
+            <a href="https://sites.google.com/view/visionandtouch">
+              <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/multimodal.png" alt="">
+            </a>
+        </div>
+        <div class="col-md-4 mar-bot-25">
+            <a href="http://roboturk.stanford.edu">
+              <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/roboturk.png" alt="">
+            </a>
+        </div>
+        <div class="col-md-4 mar-bot-25">
+            <a href="http://surreal.stanford.edu">
+              <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/surreal.png" alt="">
+            </a>
+        </div>
+        <div class="col-md-4 mar-bot-25">
+            <a href="https://sites.google.com/view/task-oriented-grasp">
+                <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/task_oriented_grasping.png" alt="">
+            </a>
+        </div>
+        <br>
+        <div class="col-md-4 mar-bot-25">
+            <a href="https://stanfordvl.github.io/ntp/">
+              <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/neural_task_programming.png" alt="">
+            </a>
+        </div>
+    </div>
 
-  <!-- /.row -->
 
+    <!-- /.row -->
 
-  <hr>
+    <hr>
 
-  <!-- Call to Action Section -->
-  <!-- <div class="well">
-      <div class="row">
-          <div class="col-md-8">
-              <p>We are actively pursuing several clinical and artificial intelligence projects across the entire healthcare system.
-                  We focus both on clinical outcomes, health improvements, and academic insights.</p>
-          </div>
-          <div class="col-md-4">
-              <a class="btn btn-lg btn-default btn-block" href="projects/index.php">See our projects &nbsp;<i class="fa fa-caret-right" aria-hidden="true"></i></a>
-          </div>
-      </div>
-  </div> -->
-
-</div>
+  </div>
 <!-- /.container -->
+</div>
