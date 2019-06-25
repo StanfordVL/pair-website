@@ -140,6 +140,12 @@ current_students:
     title: Undergraduate Student CS
     email: andrewk1 [at] stanford [dot] edu
     link: //andrewkondrich.com
+    
+  joy_hsu:
+    name: Joy Hsu
+    img: joy.png
+    title: Undergraduate Student CS
+    email: joycj [at] stanford [dot] edu
 
 alumni:
 
