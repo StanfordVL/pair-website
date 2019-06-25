@@ -2,7 +2,7 @@
 
 This repo contains the Jekyll files for the [Stanford People, AI & Robots (PAIR) Group website](https://pair.stanford.edu). Please submit pull requests when updating the website.
 
-To locally update, just [install Jekyll](https://jekyllrb.com/docs/installation/) and run ./serve_jekyll in terminal, then go to appropriate url in browser based on what you see in terminal.
+To locally build and browse, just [install Jekyll](https://jekyllrb.com/docs/installation/) and run ./serve_jekyll in terminal, then go to appropriate url in browser based on what you see in terminal.
 
 To compile site for release, exec following in  terminal:
 1. export JEKYLL_ENV=production 
@@ -11,6 +11,6 @@ To compile site for release, exec following in  terminal:
 
 To update site, run above commands, then 'octopress deploy', and then cd to dir where site is hosted (/afs/.cs/group/pair/www) and just run 'git pull'.
 
-To add new publications, follow example in publications directory. To update people or robot list, update appropriate file in \_data. To update look or layout, edit the appropriate md files in \_includes, or \_pages.
+To add new publications, follow example in publications directory. To update people or robot list, update appropriate file in \_data. To update look or layout, edit the appropriate md files in \_includes, or \_pages. To update news or publications on home page, edit the index.md in root folder directly.
 
 Maintainers: [Yuke Zhu](https://web.stanford.edu/~yukez/), [Ajay Mandlekar](http://web.stanford.edu/~amandlek/), [Andrey Kurenkov](http://www.andreykurenkov.com/)
