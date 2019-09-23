@@ -6,7 +6,7 @@ pub_info_name: "IEEE/RSJ International Conference on Intelligent Robots and Syst
 pub_info_date: November 2019
 excerpt: text text text
 images:
-  thumb: mandlekar_iros19.jpg
-  main: mandlekar_iros19.jpg
+  thumb: mandlekar_iros19.png
+  main: mandlekar_iros19.png
 ---
 
