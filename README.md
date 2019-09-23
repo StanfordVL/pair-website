@@ -5,9 +5,9 @@ This repo contains the Jekyll files for the [Stanford People, AI & Robots (PAIR)
 To locally build and browse, just [install Jekyll](https://jekyllrb.com/docs/installation/) and run ./serve_jekyll in terminal, then go to appropriate url in browser based on what you see in terminal.
 
 To compile site for release, exec following in  terminal:
-1. export JEKYLL_ENV=production 
-2. bundle exec jekyll clean
-3. bundle exec jekyll build --future
+1. `export JEKYLL_ENV=production`
+2. `bundle exec jekyll clean`
+3. `bundle exec jekyll build --future`
 
 To update site, run above commands, then 'octopress deploy' (or checkout static, copy contents of _site into root of repo, and commit everything), and then cd to dir where site is hosted (/afs/.cs/group/pair/www)  (you can ssh throught capri13) and just run 'git pull' (this is just the steps getting compiled html, syncing it to master branch, and then pulling master branch at the appropriate location).
 
