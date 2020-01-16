@@ -27,7 +27,7 @@ permalink: /people
               <h2 class=""><small>Faculty Members</small></h2>
           </div>
 
-          {% for person_kv in site.data.people.faculty %} 
+          {% for person_kv in site.data.people.faculty %}
               {% assign person = person_kv[1] %}
               {% assign loopindex = forloop.index0 | modulo: 4 %}
 
@@ -58,10 +58,10 @@ permalink: /people
 
       <div class="row">
           <div class="col-lg-12">
-              <h2 class=""><small>Postdocs and Visiting Scholars</small></h2>
+              <h2 class=""><small>Postdocs, Visiting Scholars, and Research Engineers</small></h2>
           </div>
 
-          {% for person_kv in site.data.people.postdocs %} 
+          {% for person_kv in site.data.people.engineers_visiting_scholars_postdocs %}
               {% assign person = person_kv[1] %}
               {% assign loopindex = forloop.index0 | modulo: 4 %}
 
@@ -94,7 +94,7 @@ permalink: /people
               <h2 class=""><small>Students</small></h2>
           </div>
 
-          {% for person_kv in site.data.people.current_students %} 
+          {% for person_kv in site.data.people.current_students %}
               {% assign person = person_kv[1] %}
               {% assign loopindex = forloop.index0 | modulo: 4 %}
 
@@ -134,7 +134,7 @@ permalink: /people
               <span class="brand-sitename-title">Alumni</span>
               <div class="page-header-people-dark"></div>
 
-              {% for person_kv in site.data.people.alumni %} 
+              {% for person_kv in site.data.people.alumni %}
                   {% assign person = person_kv[1] %}
                   {% assign loopindex = forloop.index0 | modulo: 4 %}
 
@@ -172,7 +172,7 @@ permalink: /people
             <span class="brand-sitename-title">Academic & Industry Collaborators</span>
             <div class="page-header-people"></div>
 
-              {% for person_kv in site.data.people.collab %} 
+              {% for person_kv in site.data.people.collab %}
                   {% assign person = person_kv[1] %}
                   {% assign loopindex = forloop.index0 | modulo: 4 %}
 

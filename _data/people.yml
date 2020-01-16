@@ -14,14 +14,7 @@ faculty:
     email: feifeili [at] cs.stanford [dot] edu
     link: //vision.stanford.edu/feifeili/
 
-postdocs:
-
-  animesh_garg:
-    name: Animesh Garg
-    img: animesh_garg.png
-    title: Postdoctoral Researcher
-    email: garg [at] cs.stanford [dot] edu
-    link: //animesh.garg.tech
+engineers_visiting_scholars_postdocs:
 
   roberto_martin_martin:
     name: Roberto Martín-Martín
@@ -30,14 +23,27 @@ postdocs:
     email: roberto.martinmartin [at] stanford [dot] edu
     link: //www.robertomartinmartin.com
 
-current_students:
-
   yuke_zhu:
     name: Yuke Zhu
     img: yuke_zhu.jpg
-    title: Ph.D. Student, CS
+    title: Visiting Scholar
     email: yukez [at] cs.stanford [dot] edu
     link: //web.stanford.edu/~yukez
+
+  chun_you:
+    name: Chun-You Liu
+    img: chunyou.png
+    title: Visiting Scholar
+    email: chunyou [at] cs [dot] stanford [dot] edu
+
+  rohun_kulkarni:
+    name: Rohun Kulkarni
+    img: rohun_square.png
+    title: Research Engineer
+    email: rohun [at] stanford [dot] edu
+    link: //https://www.linkedin.com/in/rohunkulkarni
+
+current_students:
 
   kuan_fang:
     name: Kuan Fang
@@ -59,7 +65,7 @@ current_students:
     title: Ph.D. Student, EE
     email: amandlek [at] stanford [dot] edu
     link: //web.stanford.edu/~amandlek/
-    
+
   andrey_kurenkov:
     name: Andrey Kurenkov
     img: andrey_kurenkov.png
@@ -80,7 +86,7 @@ current_students:
     title: Ph.D. Student, CS
     email: jimfan [at] cs.stanford [dot] edu
     link: //jimfan.me
-    
+
   de_an_huang:
     name: De-An Huang
     img: de_an_huang.png
@@ -94,7 +100,7 @@ current_students:
     title: Ph.D. Student, CS
     email: bshen88 [at] stanford [dot] edu
     link: //b0ku1.github.io
-    
+
   suraj_nair:
     name: Suraj Nair
     img: suraj.jpg
@@ -115,40 +121,60 @@ current_students:
     title: Undergraduate Student, CS
     email: atung3 [at] stanford [dot] edu
     link: //www.alberttung.com/
-    
+
   jonathan_booher:
     name: Jonathan Booher
     img: jonathan_booher.jpeg
     title: Undergraduate Student, CS
     email: jaustinb [at] stanford [dot] edu
     link: //web.stanford.edu/~jaustinb/
-    
+
+  andrew_kondrich:
+    name: Andrew Kondrich
+    img: andrew.jpg
+    title: Undergraduate Student, CS
+    email: andrewk1 [at] stanford [dot] edu
+    link: //andrewkondrich.com
+
+  admi_adeniji:
+    name: Ademi Adeniji
+    img: ademi.png
+    title: Undergraduate Student CS
+    email: ademi [at] stanford [dot] edu
+    link: //https://www.researchgate.net/profile/Ademi_Adeniji
+
+alumni:
+
+  animesh_garg:
+    name: Animesh Garg
+    img: animesh_garg.png
+    title: Postdoctoral Researcher
+    email: garg [at] cs.stanford [dot] edu
+    link: //animesh.garg.tech
+
+  ozan_sener:
+    name: Ozan Sener
+    title: Postdoctoral Researcher, Stanford
+    email: ozansener [at] cs.stanford [dot] edu
+    link: //ozansener.net/
+
   matt_ricks:
     name: Matthew Ricks
     img: matt.jpg
     title: Master's Student, ME
     email: ricks [at] stanford [dot] edu
-    
-  marcus_dk:
-    name: Marcus Dominguez-Kuhne
-    img: marcus.jpeg
-    title: Undergraduate Student Caltech
-    email: mddoming [at] caltech [dot] edu
-    
-  andrew_kondrich:
-    name: Andrew Kondrich
-    img: andrew.jpg
-    title: Undergraduate Student CS
-    email: andrewk1 [at] stanford [dot] edu
-    link: //andrewkondrich.com
-    
+
   joy_hsu:
     name: Joy Hsu
     img: joy.png
     title: Undergraduate Student CS
     email: joycj [at] stanford [dot] edu
 
-alumni:
+  marcus_dk:
+    name: Marcus Dominguez-Kuhne
+    img: marcus.jpeg
+    title: Undergraduate Student Caltech
+    email: mddoming [at] caltech [dot] edu
 
   daniel_cai:
     name: Daniel Cai
@@ -290,14 +316,8 @@ alumni:
     title: Visiting Scholar, ITRI
     email: kaihlin [at] cs.stanford [dot] edu
     link: //www.linkedin.com/in/kai-hsiang-lin-7a9a806/
-    
-  ozan_sener:
-    name: Ozan Sener
-    title: Postdoctoral Researcher, Stanford
-    email: ozansener [at] cs.stanford [dot] edu
-    link: //ozansener.net/
 
-collab: 
+collab:
 
   ken_goldberg:
     name: Ken Goldberg
