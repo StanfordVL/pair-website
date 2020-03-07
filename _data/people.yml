@@ -273,11 +273,6 @@ alumni:
     title: Master's Student, CS
     link: //www.linkedin.com/in/zhaozhuo-xu-894b5b123
 
-  nancy_xu:
-    name: Nancy Xu
-    title: Undergraduate, CS
-    link: //www.linkedin.com/in/xnancy/
-
   pengda_liu:
     name: Pengda Liu
     title: Undergraduate, Math & CS
@@ -319,6 +314,11 @@ alumni:
 
 collab:
 
+  animesh_garg: 
+    name: Animesh garg
+    title: Professor, Toronto CS
+    link: //animesh.garg.tech
+  
   ken_goldberg:
     name: Ken Goldberg
     title: Professor, Berkeley IEOR
@@ -326,12 +326,12 @@ collab:
 
   jeannette_bohg:
     name: Jeannette Bohg
-    title: Assistant Professor, Stanford CS
-    link: //am.is.tuebingen.mpg.de/person/jbohg
+    title: Professor, Stanford CS
+    link: //web.stanford.edu/~bohg/
 
   marco_pavone:
     name: Marco Pavone
-    title: Assistant Professor, Stanford AA
+    title: Professor, Stanford AA
     link: //web.stanford.edu/~pavone/
 
   juan_carlos_niebles:
