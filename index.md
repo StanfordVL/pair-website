@@ -27,9 +27,9 @@ about: "PAIR website"
       </div>
     </div>
   </div>
-
+ <!--
   <div class="container">
-    <!-- Portfolio Section -->
+    Portfolio Section 
     <div class="row">
         <div class="col-lg-12">
             <h2 class="page-header">News</h2>
@@ -44,7 +44,7 @@ about: "PAIR website"
             </ul>
         </div>
     </div>
-  </div>
+  </div>-->
 
   <div class="container">
     <!-- Portfolio Section -->

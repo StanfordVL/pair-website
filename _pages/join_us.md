@@ -23,13 +23,17 @@ permalink: /join
 
       <div class="row">
           <div class="col-lg-12 news-list">
-            <h2>Job Opennings</h2>
-            <p>We are actively looking out for new talents in the following three positions. If you are interested please contact <a href="http://animesh.garg.tech/">Animesh Garg</a> and <a href="http://web.stanford.edu/~yukez">Yuke Zhu</a> for more information.</p>
+            <p>We are actively seeking applicants for the following two positions:</p>
             <ul>
-              <li>Research Assistants at the level of BS/MS Students (Enrolled Stanford students - see below)</li>
+              <li>BS/MS Research Assistants (see more info below)</li>
               <!-- <li>Robotics Research Residents (See below)</li> -->
               <li>Postdoctoral Fellows</li>
             </ul>
+            
+            <strong>Applying:</strong><br> 
+            <p>If you would like to apply, please fill out <a href="https://forms.gle/6CJYNmzmcGvf9yZA8">this form</a>. We will try to get back to you within a week of you filling out the form.
+            If you have any questions please contact Helen Roman at <b>hmroman at cs dot stanford dot edu</b>.</p>
+           
           </div>
       </div>
 
@@ -38,20 +42,21 @@ permalink: /join
           <h2>PAIR call for BS/MS research assistants</h2>
 	          <p>We are looking for students to work on several amazing projects that involve</p>
               <ul>
-		            <li>Deep Reinforcement and Imitation learning on physical robots</li>
-		            <li>Visual Representation Learning for physical interaction.</li>
-		            <li>Action understanding in videos and prediction.</li>
-		            <li>Deep Learning-based methods for planning & control</li>
-		            <li>Simulation to Real-world policy transfer</li>
+		            <li>Deep reinforcement and imitation learning on physical robots.</li>
+		            <li>Visual representation learning for physical interaction.</li>
+		            <li>Deep learning-based methods for planning & control.</li>
+		            <li>Simulation to real-world policy transfer.</li>
 		            <li>Large-scale robotic teleoperation for robotic manipulation tasks.</li> 
               </ul>
+              
+            <p>The primary qualification is interest in doing research, and if you have that we encourage you to apply even if you have not had prior research experience or have limited experience with AI. We strive to be a diverse and inclusive group that is open to students from all backgrounds.</p>
 
-            <strong>Required</strong>
+            <strong>Requirements</strong>
 
               <ul>
-		            <li>at least 10 hours per week of expected commitment. </li>
+		            <li>At least 10 hours per week of expected commitment. </li>
 		            <li>Python/C++ programming</li>
-		            <li>experience in a subset of Computer Vision, Machine Learning, Reinforcement Learning, or Robotics</li>
+		            <li>Experience in a subset of Computer Vision, Machine Learning, Reinforcement Learning, or Robotics</li>
 		          </ul>
 		          
             <strong>More details</strong>
@@ -61,8 +66,7 @@ permalink: /join
 		            <li>Additional bonus points for: more in-depth coursework (Convex Optimization, Advanced Reinforcement Learning, Graphical Models, Advanced Robotics, Manipulation), familiarity with deep learning frameworks such as TF/PyTorch, and experience with using simulators such as MuJoCo, cloud infrastructure, or mobile app development</li>
 		          </ul>
 		          
-		          <strong>Applying:</strong><br> 
-		          If interested, please fill out the application form <a href="https://goo.gl/forms/daFjvuAEhejzYFXJ2">here</a>.
+
           </div>
       </div> 
 
