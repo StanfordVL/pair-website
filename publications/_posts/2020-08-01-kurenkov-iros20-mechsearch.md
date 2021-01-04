@@ -9,5 +9,6 @@ images:
   thumb: kurenkov-iros20.png
   main: kurenkov-iros20.png
 paper_link: "https://arxiv.org/abs/2008.06073"
-webpage_link: "https://ai.stanford.edu/mech-search/iros/"
+video_link: "https://youtu.be/caXsrTM2YYQ"
+webpage_link: "https://ai.stanford.edu/mech-search/visuomotor/"
 ---

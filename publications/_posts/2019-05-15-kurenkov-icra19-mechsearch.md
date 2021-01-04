@@ -10,7 +10,7 @@ images:
   main: kurenkov-icra18-mechsearch.png
 paper_link: "https://arxiv.org/abs/1903.01588"
 video_link: "https://youtu.be/lCwdGSDkbG4"
-webpage_link: "https://ai.stanford.edu/mech-search/"
+webpage_link: "https://ai.stanford.edu/mech-search/multistep/"
 ---
 
 

@@ -23,19 +23,6 @@ engineers_visiting_scholars_postdocs:
     email: roberto.martinmartin [at] stanford [dot] edu
     link: //www.robertomartinmartin.com
 
-  yuke_zhu:
-    name: Yuke Zhu
-    img: yuke_zhu.jpg
-    title: Visiting Scholar
-    email: yukez [at] cs.stanford [dot] edu
-    link: //web.stanford.edu/~yukez
-
-  chun_you:
-    name: Chun-You Liu
-    img: chunyou.png
-    title: Visiting Scholar
-    email: chunyou [at] cs [dot] stanford [dot] edu
-
   rohun_kulkarni:
     name: Rohun Kulkarni
     img: rohun_square.png
@@ -87,13 +74,6 @@ current_students:
     email: jimfan [at] cs.stanford [dot] edu
     link: //jimfan.me
 
-  de_an_huang:
-    name: De-An Huang
-    img: de_an_huang.png
-    title: Ph.D. Student, CS
-    email: dahuang [at] cs.stanford [dot] edu
-    link: //ai.stanford.edu/~dahuang/
-
   william_shen:
     name: William Shen
     img: william_shen.jpg
@@ -101,12 +81,12 @@ current_students:
     email: bshen88 [at] stanford [dot] edu
     link: //b0ku1.github.io
 
-  suraj_nair:
-    name: Suraj Nair
-    img: suraj.jpg
+  eric_li:
+    name: Chengshu Eric Li
+    img: eric_li.jpeg
     title: Ph.D. Student, CS
-    email: surajn [at] stanford [dot] edu
-    link: //surajnair.com
+    email: chengshu [at] stanford [dot] edu
+    link: //https://www.chengshuli.me/
 
   simon_kalouche:
     name: Simon Kalouche
@@ -129,14 +109,7 @@ current_students:
     email: jaustinb [at] stanford [dot] edu
     link: //web.stanford.edu/~jaustinb/
 
-  andrew_kondrich:
-    name: Andrew Kondrich
-    img: andrew.jpg
-    title: Undergraduate Student, CS
-    email: andrewk1 [at] stanford [dot] edu
-    link: //andrewkondrich.com
-
-  admi_adeniji:
+  ademi_adeniji:
     name: Ademi Adeniji
     img: ademi.png
     title: Undergraduate Student CS
@@ -144,6 +117,40 @@ current_students:
     link: //https://www.researchgate.net/profile/Ademi_Adeniji
 
 alumni:
+
+  andrew_kondrich:
+    name: Andrew Kondrich
+    img: andrew.jpg
+    title: Undergraduate Student, CS
+    email: andrewk1 [at] stanford [dot] edu
+    link: //andrewkondrich.com
+
+  de_an_huang:
+    name: De-An Huang
+    img: de_an_huang.png
+    title: Ph.D. Student, CS
+    email: dahuang [at] cs.stanford [dot] edu
+    link: //ai.stanford.edu/~dahuang/
+
+  yuke_zhu:
+    name: Yuke Zhu
+    img: yuke_zhu.jpg
+    title: Visiting Scholar
+    email: yukez [at] cs.stanford [dot] edu
+    link: //web.stanford.edu/~yukez
+
+  suraj_nair:
+    name: Suraj Nair
+    img: suraj.jpg
+    title: Ph.D. Student, CS
+    email: surajn [at] stanford [dot] edu
+    link: //surajnair.com
+
+  chun_you:
+    name: Chun-You Liu
+    img: chunyou.png
+    title: Visiting Scholar
+    email: chunyou [at] cs [dot] stanford [dot] edu
 
   animesh_garg:
     name: Animesh Garg
