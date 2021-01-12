@@ -81,12 +81,26 @@ current_students:
     email: bshen88 [at] stanford [dot] edu
     link: //b0ku1.github.io
 
+  bohan_wu:
+    name: Bohan Wu
+    img: bohan_wu.jpeg
+    title: Ph.D. Student, CS
+    email: bohanwu [at] stanford [dot] edu
+    link: //https://bohanwu.github.io/
+
   eric_li:
     name: Chengshu Eric Li
     img: eric_li.jpeg
     title: Ph.D. Student, CS
     email: chengshu [at] stanford [dot] edu
-    link: //https://www.chengshuli.me/
+    link: //www.chengshuli.me/
+    
+  chen_wang:
+    name: Chen (Jeremy) Wang
+    img: chen_wang.png
+    title: Ph.D. Student, CS
+    email: chenwj [at] stanford [dot] edu
+    link: //http://www.chenwangjeremy.net/
 
   simon_kalouche:
     name: Simon Kalouche

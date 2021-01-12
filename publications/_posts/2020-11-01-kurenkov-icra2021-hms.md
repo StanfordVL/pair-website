@@ -2,8 +2,8 @@
 layout: publication
 title: "Multi-Layer Semantic and Geometric Modeling with Neural Message Passing in 3D Scene Graphs for Hierarchical Mechanical Search"
 authors: "Andrey Kurenkov, Roberto Martín-Martín, Jeff Ichnowski, Ken Goldberg, Silvio Savarese"
-pub_info_name: "IEEE International Conference on Robotics and Automation (ICRA)"
-pub_info_date: In Submission
+pub_info_name: "Under Review"
+pub_info_date: December 2020
 excerpt: text text text
 images:
   thumb: kurenkov-icra2021-hms.jpg
