@@ -1,7 +1,7 @@
 ---
 layout: publication
 title: "Human-in-the-Loop Imitation Learning using Remote Teleoperation"
-authors: "Ajay Mandlekar, Danfei Xu\*, Roberto Martin-Martin\*, Yuke Zhu, Li Fei-Fei, Silvio Savarese"
+authors: "Ajay Mandlekar, Danfei Xu*, Roberto Martin-Martin*, Yuke Zhu, Li Fei-Fei, Silvio Savarese"
 pub_info_name: "Under Review"
 pub_info_date: December 2020
 images:
