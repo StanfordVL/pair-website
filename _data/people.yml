@@ -1,11 +1,11 @@
 faculty:
 
-  silvio_savarese:
-    name: Silvio Savarese
-    img: silvio_savarese.jpg
-    title: Associate Professor
-    email: silvio [at] cs.stanford [dot] edu
-    link: //cvgl.stanford.edu/silvio/
+  jiajun_wu:
+    name: Jiajun Wu
+    img: Jiajun_Wu.jpg
+    title: Assistant Professor
+    email: jiajunwu [at] cs (dot) stanford (dot) edu
+    link: https://jiajunwu.com/
 
   fei_fei_li:
     name: Fei-Fei Li
@@ -13,38 +13,33 @@ faculty:
     title: Professor
     email: feifeili [at] cs.stanford [dot] edu
     link: //vision.stanford.edu/feifeili/
+    
+  silvio_savarese:
+    name: Silvio Savarese
+    img: silvio_savarese.jpg
+    title: Associate Professor
+    email: silvio [at] cs.stanford [dot] edu
+    link: //cvgl.stanford.edu/silvio/
 
 engineers_visiting_scholars_postdocs:
 
   roberto_martin_martin:
     name: Roberto Martín-Martín
     img: roberto_martin_martin.png
-    title: Postdoctoral Researcher
+    title: Post Doctoral Researcher
     email: roberto.martinmartin [at] stanford [dot] edu
     link: //www.robertomartinmartin.com
-
-  rohun_kulkarni:
-    name: Rohun Kulkarni
-    img: rohun_square.png
-    title: Research Engineer
-    email: rohun [at] stanford [dot] edu
-    link: //https://www.linkedin.com/in/rohunkulkarni
+    
+  ruohan_zhang:
+    name: Ruohan Zhang
+    img: ruohan_zhang.jpg
+    title: Post Doctoral Researcher
+    email: zharu [at] stanford [dot] edu
+    link: https://ai.stanford.edu/~zharu/
+        
 
 current_students:
 
-  kuan_fang:
-    name: Kuan Fang
-    img: kuan_fang.jpg
-    title: Ph.D. Student, EE
-    email: kuanfang [at] stanford [dot] edu
-    link: //ai.stanford.edu/~kuanfang
-
-  danfei_xu:
-    name: Danfei Xu
-    img: danfei_xu.png
-    title: Ph.D. Student, CS
-    email: danfei [at] stanford [dot] edu
-    link: //cs.stanford.edu/~danfei/
 
   ajay_mandlekar:
     name: Ajay Mandlekar
@@ -61,18 +56,6 @@ current_students:
     link: //www.andreykurenkov.com
     twitter: andrey_kurenkov
 
-  michelle_lee:
-    name: Michelle Lee
-    img: michelle_lee.jpg
-    title: Ph.D. Student, ME
-    email: mishlee [at] stanford [dot] edu
-
-  jim_fan:
-    name: Jim Fan
-    img: jim_fan.png
-    title: Ph.D. Student, CS
-    email: jimfan [at] cs.stanford [dot] edu
-    link: //jimfan.me
 
   william_shen:
     name: William Shen
@@ -102,35 +85,76 @@ current_students:
     email: chenwj [at] stanford [dot] edu
     link: //http://www.chenwangjeremy.net/
 
-  simon_kalouche:
-    name: Simon Kalouche
-    img: simon_kalouche.png
+  agrim_gupta:
+    name: Agrim Gupta
+    img: agrim.jpg
     title: Ph.D. Student, CS
-    email: kalouche [at] cs [dot] stanford [dot] edu
-    link: //simonkalouche.com/
-
-  albert_tung:
-    name: Albert Tung
-    img: albert_tung.jpeg
-    title: Undergraduate Student, CS
-    email: atung3 [at] stanford [dot] edu
-    link: //www.alberttung.com/
-
+    email: agrim [at] cs [dot] stanford [dot] edu
+    link: //http://web.stanford.edu/~agrim/
+    
+  michael_lingelbach:
+    name: Michael Lingelbach
+    img: michael.jpeg
+    title: Ph.D. Student, CS
+    email: mjlbach [at] stanford [dot] edu
+    
+  sanjana:
+    name: Sanjana Srivastava
+    img: sanjana.jpg
+    title: Ph.D. Student, CS
+    
   jonathan_booher:
     name: Jonathan Booher
     img: jonathan_booher.jpeg
     title: Undergraduate Student, CS
     email: jaustinb [at] stanford [dot] edu
     link: //web.stanford.edu/~jaustinb/
+    
+    
 
-  ademi_adeniji:
-    name: Ademi Adeniji
-    img: ademi.png
-    title: Undergraduate Student CS
-    email: ademi [at] stanford [dot] edu
-    link: //https://www.researchgate.net/profile/Ademi_Adeniji
-
+    
 alumni:
+
+  kuan_fang:
+    name: Kuan Fang
+    img: kuan_fang.jpg
+    title: Ph.D. Student, EE
+    email: kuanfang [at] stanford [dot] edu
+    link: //ai.stanford.edu/~kuanfang
+
+  danfei_xu:
+    name: Danfei Xu
+    img: danfei_xu.png
+    title: Ph.D. Student, CS
+    email: danfei [at] stanford [dot] edu
+    link: //cs.stanford.edu/~danfei/
+
+  michelle_lee:
+    name: Michelle Lee
+    img: michelle_lee.jpg
+    title: Ph.D. Student, ME
+    email: mishlee [at] stanford [dot] edu
+
+  jim_fan:
+    name: Jim Fan
+    img: jim_fan.png
+    title: Ph.D. Student, CS
+    email: jimfan [at] cs.stanford [dot] edu
+    link: //jimfan.me
+
+  rohun_kulkarni:
+    name: Rohun Kulkarni
+    img: rohun_square.png
+    title: Research Engineer
+    email: rohun [at] stanford [dot] edu
+    link: //https://www.linkedin.com/in/rohunkulkarni
+
+  simon_kalouche:
+    name: Simon Kalouche
+    img: simon_kalouche.png
+    title: Ph.D. Student, CS
+    email: kalouche [at] cs [dot] stanford [dot] edu
+    link: //simonkalouche.com/
 
   andrew_kondrich:
     name: Andrew Kondrich
@@ -178,6 +202,13 @@ alumni:
     title: Postdoctoral Researcher, Stanford
     email: ozansener [at] cs.stanford [dot] edu
     link: //ozansener.net/
+    
+  ademi_adeniji:
+    name: Ademi Adeniji
+    img: ademi.png
+    title: Undergraduate Student CS
+    email: ademi [at] stanford [dot] edu
+    link: //https://www.researchgate.net/profile/Ademi_Adeniji
 
   matt_ricks:
     name: Matthew Ricks
@@ -190,6 +221,13 @@ alumni:
     img: joy.png
     title: Undergraduate Student CS
     email: joycj [at] stanford [dot] edu
+    
+  albert_tung:
+    name: Albert Tung
+    img: albert_tung.jpeg
+    title: Undergraduate Student, CS
+    email: atung3 [at] stanford [dot] edu
+    link: //www.alberttung.com/
 
   marcus_dk:
     name: Marcus Dominguez-Kuhne
@@ -349,6 +387,16 @@ collab:
     name: Jeannette Bohg
     title: Professor, Stanford CS
     link: //web.stanford.edu/~bohg/
+
+  hyowon_gweon:
+    name: Hyowon Gweon
+    title: Professor, Stanford Psychology
+    link: //http://sll.stanford.edu/index.html
+
+  karen_liu: 
+    name: Karen Liu
+    title: Professor, Stanford CS
+    link: https://ckllab.stanford.edu/c-karen-liu
 
   marco_pavone:
     name: Marco Pavone

@@ -53,13 +53,28 @@ about: "PAIR website"
             <h2 class="page-header">Project Highlights</h2>
         </div>
         <div class="col-md-4 mar-bot-25">
-            <a href="https://sites.google.com/view/densefusion">
-              <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/6dof_pose.png" alt="">
+            <a href="http://svl.stanford.edu/igibson/">
+              <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/igibson.png" alt="">
             </a>
         </div>
         <div class="col-md-4 mar-bot-25">
-            <a href="https://sites.google.com/view/visionandtouch">
-              <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/multimodal.png" alt="">
+            <a href="https://arise-initiative.github.io/robomimic-web/">
+              <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/robomimic.png" alt="">
+            </a>
+        </div>
+        <div class="col-md-4 mar-bot-25">
+            <a href="https://sites.google.com/view/il-for-mm/home">
+              <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/momart.png" alt="">
+            </a>
+        </div>
+        <div class="col-md-4 mar-bot-25">
+            <a href="https://kuanfang.github.io/apt-gen/">
+              <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/procgen.png" alt="">
+            </a>
+        </div>
+        <div class="col-md-4 mar-bot-25">
+            <a href="http://svl.stanford.edu/projects/relmogen/">
+              <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/relmogen.png" alt="">
             </a>
         </div>
         <div class="col-md-4 mar-bot-25">
@@ -68,16 +83,16 @@ about: "PAIR website"
             </a>
         </div>
         <div class="col-md-4 mar-bot-25">
-            <a href="http://surreal.stanford.edu">
-              <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/surreal.png" alt="">
+            <a href="https://sites.google.com/view/co-gail-web/home">
+              <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/cogail.png" alt="">
             </a>
         </div>
+        
         <div class="col-md-4 mar-bot-25">
-            <a href="https://sites.google.com/view/task-oriented-grasp">
-                <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/task_oriented_grasping.png" alt="">
+            <a href="https://sites.google.com/view/visionandtouch">
+              <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/multimodal.png" alt="">
             </a>
         </div>
-        <br>
         <div class="col-md-4 mar-bot-25">
             <a href="https://stanfordvl.github.io/ntp/">
               <img class="img-responsive img-hover" src="./img/project_thumbs/750x400/neural_task_programming.png" alt="">
