@@ -1,12 +1,5 @@
 faculty:
 
-  jiajun_wu:
-    name: Jiajun Wu
-    img: Jiajun_Wu.jpg
-    title: Assistant Professor
-    email: jiajunwu [at] cs (dot) stanford (dot) edu
-    link: https://jiajunwu.com/
-
   fei_fei_li:
     name: Fei-Fei Li
     img: fei_fei_li.jpg
@@ -21,15 +14,15 @@ faculty:
     email: silvio [at] cs.stanford [dot] edu
     link: //cvgl.stanford.edu/silvio/
 
+  jiajun_wu:
+    name: Jiajun Wu
+    img: Jiajun_Wu.jpg
+    title: Assistant Professor
+    email: jiajunwu [at] cs [dot] stanford [dot] edu
+    link: https://jiajunwu.com/
+
 engineers_visiting_scholars_postdocs:
 
-  roberto_martin_martin:
-    name: Roberto Martín-Martín
-    img: roberto_martin_martin.png
-    title: Post Doctoral Researcher
-    email: roberto.martinmartin [at] stanford [dot] edu
-    link: //www.robertomartinmartin.com
-    
   ruohan_zhang:
     name: Ruohan Zhang
     img: ruohan_zhang.jpg
@@ -37,8 +30,94 @@ engineers_visiting_scholars_postdocs:
     email: zharu [at] stanford [dot] edu
     link: https://ai.stanford.edu/~zharu/
         
+  mengdi_xu:
+    name: Mengdi Xu
+    img: mengdixu.jpg
+    title: Post Doctoral Researcher
+    email: mengdixu [at] stanford [dot] edu
+    link: https://mxu34.github.io/
 
 current_students:
+
+
+  bohan_wu:
+    name: Bohan Wu
+    img: bohan_wu.jpeg
+    title: Ph.D. Student, CS
+    email: bohanwu [at] stanford [dot] edu
+    link: https://bohanwu.github.io/
+
+  eric_li:
+    name: Chengshu Eric Li
+    img: eric_li.jpeg
+    title: Ph.D. Student, CS
+    email: chengshu [at] stanford [dot] edu
+    link: //www.chengshuli.me/
+    
+  chen_wang:
+    name: Chen (Jeremy) Wang
+    img: chen_wang.png
+    title: Ph.D. Student, CS
+    email: chenwj [at] stanford [dot] edu
+    link: http://www.chenwangjeremy.net/
+
+  sanjana:
+    name: Sanjana Srivastava
+    img: sanjana.jpg
+    title: Ph.D. Student, CS
+
+  josiah:
+    name: Josiah Wong
+    img: josiah_wong.png
+    title: Ph.D student, ME
+    link: https://jdw.ong/
+    email: jdwong [at] stanford [dot] edu
+
+  wenlong_huang:
+    name: Wenlong Huang
+    img: wenlong_huang.jpg
+    title: Ph.D. Student, CS
+    email: wenlongh [at] stanford [dot] edu
+    link: https://wenlong.page/
+
+  cem:
+    name: Cem Gokmen
+    img: cem_gokmen.jpg
+    title: Ph.D. Student, CS
+    email: cgokmen [at] stanford [dot] edu
+    link: https://www.cemgokmen.com
+
+  yunfan_jiang:
+    name: Yunfan Jiang
+    img: yunfan_jiang.jpg
+    title: Ph.D. Student, CS
+    email: yunfanj [at] cs [dot] stanford [dot] edu
+    link: https://yunfanj.com/
+
+
+    
+alumni:
+
+  jonathan_booher:
+    name: Jonathan Booher
+    img: jonathan_booher.jpeg
+    title: Undergraduate Student, CS
+    email: jaustinb [at] stanford [dot] edu
+    link: //web.stanford.edu/~jaustinb/
+
+
+  agrim_gupta:
+    name: Agrim Gupta
+    img: agrim.jpg
+    title: Ph.D. Student, CS
+    email: agrim [at] cs [dot] stanford [dot] edu
+    link: //http://web.stanford.edu/~agrim/
+
+  michael_lingelbach:
+    name: Michael Lingelbach
+    img: michael.jpeg
+    title: Ph.D. Student, CS
+    email: mjlbach [at] stanford [dot] edu
 
 
   ajay_mandlekar:
@@ -64,56 +143,13 @@ current_students:
     email: bshen88 [at] stanford [dot] edu
     link: //b0ku1.github.io
 
-  bohan_wu:
-    name: Bohan Wu
-    img: bohan_wu.jpeg
-    title: Ph.D. Student, CS
-    email: bohanwu [at] stanford [dot] edu
-    link: //https://bohanwu.github.io/
 
-  eric_li:
-    name: Chengshu Eric Li
-    img: eric_li.jpeg
-    title: Ph.D. Student, CS
-    email: chengshu [at] stanford [dot] edu
-    link: //www.chengshuli.me/
-    
-  chen_wang:
-    name: Chen (Jeremy) Wang
-    img: chen_wang.png
-    title: Ph.D. Student, CS
-    email: chenwj [at] stanford [dot] edu
-    link: //http://www.chenwangjeremy.net/
-
-  agrim_gupta:
-    name: Agrim Gupta
-    img: agrim.jpg
-    title: Ph.D. Student, CS
-    email: agrim [at] cs [dot] stanford [dot] edu
-    link: //http://web.stanford.edu/~agrim/
-    
-  michael_lingelbach:
-    name: Michael Lingelbach
-    img: michael.jpeg
-    title: Ph.D. Student, CS
-    email: mjlbach [at] stanford [dot] edu
-    
-  sanjana:
-    name: Sanjana Srivastava
-    img: sanjana.jpg
-    title: Ph.D. Student, CS
-    
-  jonathan_booher:
-    name: Jonathan Booher
-    img: jonathan_booher.jpeg
-    title: Undergraduate Student, CS
-    email: jaustinb [at] stanford [dot] edu
-    link: //web.stanford.edu/~jaustinb/
-    
-    
-
-    
-alumni:
+  roberto_martin_martin:
+    name: Roberto Martín-Martín
+    img: roberto_martin_martin.png
+    title: Post Doctoral Researcher
+    email: roberto.martinmartin [at] stanford [dot] edu
+    link: //www.robertomartinmartin.com
 
   kuan_fang:
     name: Kuan Fang
@@ -373,9 +409,15 @@ alumni:
 
 collab:
 
-  animesh_garg: 
+  roberto_martin_martin:
+    name: Roberto Martín-Martín
+    img: roberto_martin_martin.png
+    title: Professor, UT Austin CS
+    link: //www.robertomartinmartin.com
+
+  animesh_garg:
     name: Animesh garg
-    title: Professor, Toronto CS
+    title: Professor, Georgia Tech CS
     link: //animesh.garg.tech
   
   ken_goldberg:
