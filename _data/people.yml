@@ -94,6 +94,27 @@ current_students:
     email: yunfanj [at] cs [dot] stanford [dot] edu
     link: https://yunfanj.com/
 
+  wensi_ai:
+    name: Wensi Ai
+    img: wensi_ai.png
+    title: Master's Student, CS
+    email: wsai [at] stanford [dot] edu
+    link: http://wensi-ai.github.io/
+
+  yingke_wang:
+    name: Yingke Wang
+    img: yingke_wang.jpg
+    title: Master's Student, CS
+    email: yingkewang [at] stanford [dot] edu
+    link: https://www.wykac.com/
+
+  tianyuan_dai:
+    name: Tianyuan Dai
+    img: tianyuan_dai.png
+    title: Master's Student, CS
+    email: tydai [at] stanford [dot] edu
+    link: https://rogerdai1217.github.io/
+
 
     
 alumni:
